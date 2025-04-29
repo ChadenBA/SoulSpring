@@ -57,12 +57,12 @@ jobs:
 
     - name: Build and Push Backend Docker Image
       run: |
-        docker build -t ${{ secrets.DOCKER_USERNAME }}/soulspring_backend:latest -f backend/Dockerfile.backend .
+        docker build -t ${{ secrets.DOCKER_USERNAME }}/soulspring_backend:latest -f soulspringBack/Dockerfile.backend .
         docker push ${{ secrets.DOCKER_USERNAME }}/soulspring_backend:latest
 
     - name: Build and Push Frontend Docker Image
       run: |
-        docker build -t ${{ secrets.DOCKER_USERNAME }}/soulspring_frontend:latest -f frontend/Dockerfile.frontend .
+        docker build -t ${{ secrets.DOCKER_USERNAME }}/soulspring_frontend:latest -f soulspringFront/Dockerfile.frontend .
         docker push ${{ secrets.DOCKER_USERNAME }}/soulspring_frontend:latest
 
     # ---------- Optional: Deploy to Server ----------
