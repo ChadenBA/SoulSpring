@@ -65,8 +65,3 @@ jobs:
         docker build -t ${{ secrets.DOCKER_USERNAME }}/soulspring_frontend:latest -f soulspringFront/Dockerfile.frontend .
         docker push ${{ secrets.DOCKER_USERNAME }}/soulspring_frontend:latest
 
-    # ---------- Optional: Deploy to Server ----------
-    - name: Deploy to Server
-      if: github.ref == 'refs/heads/master'
-      run: |
-        ssh user@yourserver 'docker-compose pull && docker-compose up -d'
