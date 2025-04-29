@@ -1,0 +1,21 @@
+# Dockerfile.backend
+FROM node:18-alpine
+
+# Set working directory inside container
+WORKDIR /app
+
+# Copy only package.json and yarn.lock first for caching dependencies
+COPY soulspringBack/package.json soulspringBack/yarn.lock ./
+
+# Install dependencies using yarn
+RUN yarn install
+
+# Copy the rest of the backend app
+COPY soulspringBack .
+
+
+# Expose the port your app uses
+EXPOSE 8000
+
+# Start using ts-node (runtime compilation)
+CMD ["yarn", "dev"]

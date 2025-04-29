@@ -1,0 +1,234 @@
+[
+    {
+      "Question": "Comment le trouble bipolaire affecte-t-il la qualité de vie ?",
+      "Réponse": "Impact négatif sur les relations, le travail, les études, les finances, la santé physique et mentale."
+    },
+    {
+      "Question": "Comment le trouble bipolaire affecte-t-il la vie sociale ?",
+      "Réponse": "Isolement, difficultés à maintenir des relations, comportements impulsifs pouvant nuire aux relations."
+    },
+    {
+      "Question": "Comment le trouble bipolaire affecte-t-il la vie professionnelle ?",
+      "Réponse": "Difficultés à maintenir un emploi, absentéisme, baisse de productivité, conflits avec les collègues."
+    },
+    {
+      "Question": "Comment le trouble bipolaire affecte-t-il la vie familiale ?",
+      "Réponse": "Tension familiale, conflits, difficultés à communiquer, rôle parental affecté."
+    },
+    {
+      "Question": "Comment le trouble bipolaire affecte-t-il la vie scolaire ou universitaire ?",
+      "Réponse": "Difficultés de concentration, absentéisme, baisse des résultats scolaires, isolement."
+    },
+    {
+      "Question": "Comment le trouble bipolaire affecte-t-il la vie amoureuse et sexuelle ?",
+      "Réponse": "Instabilité relationnelle, comportements impulsifs pouvant nuire aux relations, baisse de la libido."
+    },
+    {
+      "Question": "Comment le trouble bipolaire affecte-t-il l'estime de soi ?",
+      "Réponse": "Fluctuations de l'estime de soi, sentiment de honte, de culpabilité, d'inadéquation."
+    },
+    {
+      "Question": "Comment le trouble bipolaire affecte-t-il l'image corporelle ?",
+      "Réponse": "Changements de poids liés aux médicaments ou aux épisodes, difficultés à accepter les changements corporels."
+    },
+    {
+      "Question": "Comment le trouble bipolaire affecte-t-il les émotions ?",
+      "Réponse": "[\"Instabilité émotionnelle, anxiété, colère, irritabilité, tristesse, euphorie.\"]"
+    },
+    {
+      "Question": "Comment le trouble bipolaire affecte-t-il la pensée ?",
+      "Réponse": "Pensées qui défilent, difficultés de concentration, troubles de la mémoire, hallucinations ou délires (dans les cas graves)."
+    },
+    {
+      "Question": "Comment le trouble bipolaire affecte-t-il le comportement ?",
+      "Réponse": "Comportements impulsifs, prise de risques, hyperactivité, agitation, ralentissement psychomoteur."
+    },
+    {
+      "Question": "Comment le trouble bipolaire affecte-t-il le sommeil ?",
+      "Réponse": "Insomnie, troubles du sommeil, diminution du besoin de sommeil (en manie), hypersomnie (en dépression)."
+    },
+    {
+      "Question": "Comment le trouble bipolaire affecte-t-il l'énergie ?",
+      "Réponse": "Fluctuations de l'énergie, hyperactivité (en manie), fatigue (en dépression)."
+    },
+    {
+      "Question": "Comment le trouble bipolaire affecte-t-il l'appétit ?",
+      "Réponse": "Diminution de l'appétit (en dépression), augmentation de l'appétit (liée à certains médicaments)."
+    },
+    {
+      "Question": "Comment le trouble bipolaire affecte-t-il la digestion ?",
+      "Réponse": "Problèmes digestifs liés aux médicaments, changements de poids pouvant affecter la digestion."
+    },
+    {
+      "Question": "Comment le trouble bipolaire affecte-t-il le système cardiovasculaire ?",
+      "Réponse": "Risque accru de maladies cardiovasculaires, effets secondaires de certains médicaments."
+    },
+    {
+      "Question": "Comment le trouble bipolaire affecte-t-il le système endocrinien ?",
+      "Réponse": "Troubles hormonaux liés aux médicaments, changements de poids pouvant affecter les hormones."
+    },
+    {
+      "Question": "Comment le trouble bipolaire affecte-t-il le système osseux ?",
+      "Réponse": "Risque accru d'ostéoporose lié à certains médicaments."
+    },
+    {
+      "Question": "Comment le trouble bipolaire affecte-t-il le système dentaire ?",
+      "Réponse": "Sécheresse buccale liée à certains médicaments."
+    },
+    {
+      "Question": "Comment le trouble bipolaire affecte-t-il la peau et les cheveux ?",
+      "Réponse": "Effets secondaires cutanés liés à certains médicaments, changements de poids pouvant affecter la peau et les cheveux."
+    },
+    {
+      "Question": "Comment le trouble bipolaire affecte-t-il le système immunitaire ?",
+      "Réponse": "Effets secondaires immunitaires liés à certains médicaments."
+    },
+    {
+      "Question": "Comment le trouble bipolaire affecte-t-il le développement chez les adolescents ?",
+      "Réponse": "Difficultés scolaires, problèmes relationnels, risque accru de toxicomanie."
+    },
+    {
+      "Question": "Comment le trouble bipolaire affecte-t-il la grossesse ?",
+      "Réponse": "Risques pour la mère et le bébé, complications de la grossesse, effets secondaires des médicaments."
+    },
+    {
+      "Question": "Comment le trouble bipolaire affecte-t-il la ménopause ?",
+      "Réponse": "Fluctuations hormonales pouvant aggraver les symptômes, interactions médicamenteuses."
+    },
+    {
+      "Question": "Comment le trouble bipolaire affecte-t-il la santé mentale à long terme ?",
+      "Réponse": "Risque accru de dépression, d'anxiété, de troubles de la personnalité, de suicide."
+    },
+    {
+      "Question": "Comment le trouble bipolaire affecte-t-il le risque de décès prématuré ?",
+      "Réponse": "Risque accru de décès par suicide, complications médicales ou accidents."
+    },
+    {
+      "Question": "Comment le trouble bipolaire affecte-t-il le coût des soins de santé ?",
+      "Réponse": "Coût élevé des traitements, hospitalisations, consultations médicales."
+    },
+    {
+      "Question": "Comment le trouble bipolaire affecte-t-il la société ?",
+      "Réponse": "Stigmatisation, discrimination, coûts économiques, impact sur les familles."
+    },
+    {
+      "Question": "Comment le trouble bipolaire affecte-t-il les personnes qui ont subi des abus ou des traumatismes ?",
+      "Réponse": "Risque accru de développer un trouble bipolaire, difficultés à gérer les émotions, risque accru de rechute."
+    },
+    {
+      "Question": "Comment le trouble bipolaire affecte-t-il les personnes qui ont des troubles de la personnalité ?",
+      "Réponse": "Complications du traitement, difficultés relationnelles, risque accru de rechute."
+    },
+    {
+      "Question": "Comment le trouble bipolaire affecte-t-il les personnes qui ont des troubles anxieux ?",
+      "Réponse": "Aggravation des symptômes anxieux, difficultés à gérer l'anxiété liée aux épisodes."
+    },
+    {
+      "Question": "Comment le trouble bipolaire affecte-t-il les personnes qui ont des troubles de l'humeur ?",
+      "Réponse": "Comorbidités fréquentes, difficultés à différencier les symptômes, risque accru de suicide."
+    },
+    {
+      "Question": "Comment le trouble bipolaire affecte-t-il les personnes qui ont des troubles obsessionnels-compulsifs (TOC) ?",
+      "Réponse": "Complications du traitement, obsessions et compulsions liées aux épisodes, risque accru de rechute."
+    },
+    {
+      "Question": "Comment le trouble bipolaire affecte-t-il les personnes qui ont des troubles de stress post-traumatique (TSPT) ?",
+      "Réponse": "Complications du traitement, difficultés à gérer les traumatismes, risque accru de rechute."
+    },
+    {
+      "Question": "Comment le trouble bipolaire affecte-t-il les personnes qui ont des troubles de l'attention avec ou sans hyperactivité (TDAH) ?",
+      "Réponse": "Complications du traitement, difficultés à gérer les symptômes, risque accru de rechute."
+    },
+    {
+      "Question": "Comment le trouble bipolaire affecte-t-il les personnes qui ont des troubles du spectre autistique (TSA) ?",
+      "Réponse": "Complications du traitement, difficultés de communication, risque accru de rechute."
+    },
+    {
+      "Question": "Comment le trouble bipolaire affecte-t-il les personnes qui ont des problèmes de dépendance ?",
+      "Réponse": "Risque accru de toxicomanie, complications du traitement, risque accru de rechute."
+    },
+    {
+      "Question": "Comment le trouble bipolaire affecte-t-il les personnes qui ont des problèmes de santé physique chroniques ?",
+      "Réponse": "Complications médicales, interactions médicamenteuses, difficultés à gérer les symptômes."
+    },
+    {
+      "Question": "Comment le trouble bipolaire affecte-t-il les personnes qui ont des problèmes de mobilité ou de handicap physique ?",
+      "Réponse": "Difficultés à accéder aux soins, isolement social, problèmes d'image corporelle."
+    },
+    {
+      "Question": "Comment le trouble bipolaire affecte-t-il les personnes qui ont des problèmes de communication ou de langage ?",
+      "Réponse": "Difficultés à exprimer leurs besoins, isolement social, difficultés à accéder aux soins."
+    },
+    {
+      "Question": "Comment le trouble bipolaire affecte-t-il les personnes qui ont des problèmes de santé mentale ou physique et qui sont réfugiées ou déplacées ?",
+      "Réponse": "Traumatismes, stress, difficultés à accéder aux soins, isolement social."
+    },
+    {
+      "Question": "Comment le trouble bipolaire affecte-t-il les personnes qui ont des problèmes de santé mentale ou physique et qui sont incarcérées ou en détention ?",
+      "Réponse": "Manque d'accès aux soins, stigmatisation, difficultés à trouver des groupes de soutien."
+    },
+    {
+      "Question": "Comment le trouble bipolaire affecte-t-il les personnes qui ont des problèmes de santé mentale ou physique et qui sont victimes de catastrophes naturelles ou de conflits armés ?",
+      "Réponse": "Traumatismes, stress, difficultés à accéder aux soins, isolement social."
+    },
+    {
+      "Question": "Comment le trouble bipolaire affecte-t-il les personnes qui ont des problèmes de santé mentale ou physique et qui sont victimes de discrimination ou de stigmatisation en raison de leur orientation sexuelle, de leur identité de genre, de leur origine ethnique ou de leur religion ?",
+      "Réponse": "Traumatismes, stress, difficultés à accéder aux soins, isolement social."
+    },
+    {
+      "Question": "Quels sont les traitements médicamenteux les plus efficaces pour le trouble bipolaire ?",
+      "Réponse": "Les stabilisateurs de l'humeur comme le lithium, les antipsychotiques atypiques et certains antidépresseurs sous surveillance médicale."
+    },
+    {
+      "Question": "Comment la psychothérapie peut-elle aider une personne atteinte de trouble bipolaire ?",
+      "Réponse": "Elle aide à identifier les déclencheurs, à gérer le stress et à améliorer les relations interpersonnelles."
+    },
+    {
+      "Question": "Pourquoi est-il important d'éviter l’auto-médication pour une personne bipolaire ?",
+      "Réponse": "L'auto-médication peut aggraver les symptômes et interagir dangereusement avec les traitements prescrits."
+    },
+    {
+      "Question": "Comment gérer les effets secondaires des médicaments du trouble bipolaire ?",
+      "Réponse": "En consultant régulièrement un médecin, en ajustant les doses et en surveillant les signes de complications."
+    },
+    {
+      "Question": "Comment établir une routine quotidienne stable pour limiter les épisodes bipolaires ?",
+      "Réponse": "Fixer des horaires réguliers pour le sommeil, l’alimentation et l’exercice physique."
+    },
+    {
+      "Question": "Quelles techniques de gestion du stress sont efficaces pour les personnes bipolaires ?",
+      "Réponse": "La méditation, la respiration profonde, le yoga et l’activité physique régulière."
+    },
+    {
+      "Question": "Comment une personne bipolaire peut-elle améliorer son hygiène de sommeil ?",
+      "Réponse": "Éviter la caféine le soir, maintenir une heure de coucher régulière et réduire l’exposition aux écrans."
+    },
+    {
+      "Question": "Comment une personne bipolaire peut-elle identifier et éviter ses déclencheurs ?",
+      "Réponse": "Tenir un journal de l’humeur, éviter le stress excessif et surveiller les signes précoces de rechute."
+    },
+    {
+      "Question": "Comment les proches peuvent-ils soutenir une personne bipolaire sans s’épuiser ?",
+      "Réponse": "Se renseigner sur la maladie, établir des limites et encourager la personne à suivre son traitement."
+    },
+    {
+      "Question": "Comment un bipolaire peut-il mieux communiquer ses besoins à son entourage ?",
+      "Réponse": "En expliquant ses symptômes, en demandant du soutien et en établissant des attentes claires."
+    },
+    {
+      "Question": "Comment reconnaître les signes précurseurs d’un épisode maniaque ou dépressif ?",
+      "Réponse": "Irritabilité, insomnie, pensées accélérées pour la manie ; fatigue, tristesse, perte d’intérêt pour la dépression."
+    },
+    {
+      "Question": "Que faire en cas de pensées suicidaires liées au trouble bipolaire ?",
+      "Réponse": "Appeler un professionnel de santé, parler à un proche de confiance et éviter l’isolement."
+    },
+    {
+      "Question": "Comment aider une personne bipolaire qui refuse de se soigner ?",
+      "Réponse": "Lui parler avec bienveillance, lui proposer un accompagnement et consulter un spécialiste pour obtenir des conseils."
+    },
+    {
+      "Question": "Que doit contenir un plan de crise pour une personne bipolaire ?",
+      "Réponse": "Les contacts d’urgence, les stratégies de gestion des crises et les signes précurseurs des épisodes."
+    }
+  ]

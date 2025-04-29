@@ -1,0 +1,42 @@
+version: '3.8'
+services:
+  mongo:
+    image: mongo
+    container_name: mongo
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo-data:/data/db
+
+  backend:
+    build:
+      context: .
+      dockerfile: ./soulspringBack/Dockerfile.backend
+    ports:
+      - "8000:8000"
+    depends_on:
+      - mongo
+    environment:
+      - MONGO_URI= mongodb+srv://chaden:2uTOPIQU9J4mB32A@chaden.sisxm.mongodb.net/springSoul?retryWrites=true&w=majority&appName=chaden
+
+  ai:
+    build:
+      context: .
+      dockerfile: ./ai_models/Dockerfile
+    ports:
+      - "5000:5000"
+    depends_on:
+      - backend
+
+  frontend:
+    build:
+      context: .
+      dockerfile: ./soulspringFront/Dockerfile.frontend
+    ports:
+      - "5174:5174"
+    depends_on:
+      - backend
+
+volumes:
+  mongo-data:
+

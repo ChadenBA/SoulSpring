@@ -1,0 +1,259 @@
+[
+    {
+      "Question": "Comment les troubles de l'alimentation affectent-ils la perception de la douleur ?",
+      "Réponse": "Sensibilité accrue à la douleur, douleurs chroniques, difficultés à gérer la douleur."
+    },
+    {
+      "Question": "Comment les troubles de l'alimentation affectent-ils la capacité à réguler les émotions ?",
+      "Réponse": "Difficultés à identifier et à exprimer les émotions, recours à l'alimentation pour gérer les émotions."
+    },
+    {
+      "Question": "Comment les troubles de l'alimentation affectent-ils la capacité à faire face au stress ?",
+      "Réponse": "Vulnérabilité accrue au stress, recours à l'alimentation pour gérer le stress."
+    },
+    {
+      "Question": "Comment les troubles de l'alimentation affectent-ils la capacité à prendre des décisions ?",
+      "Réponse": "Difficultés à prendre des décisions, impulsivité, manque de contrôle."
+    },
+    {
+      "Question": "Comment les troubles de l'alimentation affectent-ils la capacité à maintenir des relations saines ?",
+      "Réponse": "Isolement social, difficultés à faire confiance, comportements de contrôle."
+    },
+    {
+      "Question": "Comment les troubles de l'alimentation affectent-ils la capacité à exprimer ses besoins ?",
+      "Réponse": "Difficultés à communiquer ses besoins, peur du rejet, sentiment d'inadéquation."
+    },
+    {
+      "Question": "Comment les troubles de l'alimentation affectent-ils la capacité à se fixer des limites ?",
+      "Réponse": "Difficultés à dire non, tendance à s'oublier, besoin de plaire."
+    },
+    {
+      "Question": "Comment les troubles de l'alimentation affectent-ils la capacité à s'accepter soi-même ?",
+      "Réponse": "Faible estime de soi, sentiment de honte, de culpabilité, d'inadéquation."
+    },
+    {
+      "Question": "Comment les troubles de l'alimentation affectent-ils la capacité à se pardonner ?",
+      "Réponse": "Difficultés à se pardonner, sentiment de culpabilité persistant, comportements autodestructeurs."
+    },
+    {
+      "Question": "Comment les troubles de l'alimentation affectent-ils la capacité à trouver un sens à sa vie ?",
+      "Réponse": "Sentiment de vide, de manque de sens, de désespoir."
+    },
+    {
+      "Question": "Comment les troubles de l'alimentation affectent-ils la capacité à profiter de la vie ?",
+      "Réponse": "Anhedonie (incapacité à ressentir du plaisir), isolement social, évitement des activités plaisantes."
+    },
+    {
+      "Question": "Comment les troubles de l'alimentation affectent-ils la capacité à se sentir en sécurité ?",
+      "Réponse": "Sentiment d'insécurité, peur du rejet, besoin de contrôle."
+    },
+    {
+      "Question": "Comment les troubles de l'alimentation affectent-ils la capacité à faire confiance aux autres ?",
+      "Réponse": "Difficultés à faire confiance, méfiance, isolement social."
+    },
+    {
+      "Question": "Comment les troubles de l'alimentation affectent-ils la capacité à se sentir connecté aux autres ?",
+      "Réponse": "Isolement social, sentiment de solitude, difficultés à établir des relations intimes."
+    },
+    {
+      "Question": "Comment les troubles de l'alimentation affectent-ils la capacité à se sentir aimé et accepté ?",
+      "Réponse": "Sentiment de rejet, de manque d'amour, de ne pas être assez bien."
+    },
+    {
+      "Question": "Comment les troubles de l'alimentation affectent-ils la capacité à se sentir compétent et capable ?",
+      "Réponse": "Sentiment d'incompétence, de manque de confiance en soi, de ne pas être à la hauteur."
+    },
+    {
+      "Question": "Comment les troubles de l'alimentation affectent-ils la capacité à se sentir autonome et indépendant ?",
+      "Réponse": "Dépendance aux autres, difficultés à prendre des décisions, manque d'autonomie."
+    },
+    {
+      "Question": "Comment les troubles de l'alimentation affectent-ils la capacité à se sentir créatif et expressif ?",
+      "Réponse": "Blocages créatifs, difficultés à exprimer ses émotions, manque d'inspiration."
+    },
+    {
+      "Question": "Comment les troubles de l'alimentation affectent-ils la capacité à se sentir spirituel et connecté à quelque chose de plus grand ?",
+      "Réponse": "Sentiment de vide spirituel, de manque de sens, de déconnexion."
+    },
+    {
+      "Question": "Comment les troubles de l'alimentation affectent-ils la capacité à se sentir en paix et serein ?",
+      "Réponse": "Anxiété, agitation, difficultés à se détendre."
+    },
+    {
+      "Question": "Comment les troubles de l'alimentation affectent-ils la capacité à se sentir joyeux et heureux ?",
+      "Réponse": "Tristesse, désespoir, difficultés à ressentir de la joie."
+    },
+    {
+      "Question": "Comment les troubles de l'alimentation affectent-ils la capacité à se sentir reconnaissant et satisfait ?",
+      "Réponse": "Insatisfaction, sentiment de manque, difficultés à apprécier ce qu'on a."
+    },
+    {
+      "Question": "Comment les troubles de l'alimentation affectent-ils la capacité à se sentir courageux et résilient ?",
+      "Réponse": "Peur, vulnérabilité, difficultés à surmonter les difficultés."
+    },
+    {
+      "Question": "Comment les troubles de l'alimentation affectent-ils la capacité à se sentir fort et puissant ?",
+      "Réponse": "Sentiment de faiblesse, d'impuissance, de manque de contrôle."
+    },
+    {
+      "Question": "Comment les troubles de l'alimentation affectent-ils la capacité à se sentir libre et authentique ?",
+      "Réponse": "Sentiment d'enfermement, de ne pas être soi-même, de vivre une vie qui n'est pas la sienne."
+    },
+    {
+      "Question": "Comment les troubles de l'alimentation affectent-ils la capacité à se sentir en harmonie avec soi-même et avec le monde ?",
+      "Réponse": "Sentiment de déséquilibre, de disharmonie, de ne pas être à sa place."
+    },
+    {
+      "Question": "Comment les troubles de l'alimentation affectent-ils la capacité à se sentir en sécurité dans son corps ?",
+      "Réponse": "Sentiment d'insécurité, de ne pas être chez soi dans son corps, de vouloir s'en échapper."
+    },
+    {
+      "Question": "Comment les troubles de l'alimentation affectent-ils la capacité à se sentir à l'aise avec son corps ?",
+      "Réponse": "Sentiment de malaise, de honte, de dégoût envers son corps."
+    },
+    {
+      "Question": "Comment les troubles de l'alimentation affectent-ils la capacité à se sentir fier de son corps ?",
+      "Réponse": "Sentiment de dévalorisation, de ne pas être assez bien, de ne pas mériter d'être aimé."
+    },
+    {
+      "Question": "Comment les troubles de l'alimentation affectent-ils la capacité à se sentir reconnaissant envers son corps ?",
+      "Réponse": "Sentiment d'ingratitude, de colère, de ressentiment envers son corps."
+    },
+    {
+      "Question": "Comment les troubles de l'alimentation affectent-ils la capacité à se sentir en paix avec son corps ?",
+      "Réponse": "Sentiment de guerre, de conflit, de lutte contre son corps."
+    },
+    {
+      "Question": "Comment les troubles de l'alimentation affectent-ils la capacité à se sentir connecté à son corps ?",
+      "Réponse": "Sentiment de déconnexion, de dissociation, de ne pas habiter son corps."
+    },
+    {
+      "Question": "Comment les troubles de l'alimentation affectent-ils la capacité à se sentir à l'aise avec la nourriture ?",
+      "Réponse": "Peur de la nourriture, obsession de la nourriture, comportements compulsifs liés à la nourriture."
+    },
+    {
+      "Question": "Comment les troubles de l'alimentation affectent-ils la capacité à manger intuitivement ?",
+      "Réponse": "Difficultés à écouter les signaux de faim et de satiété, comportements alimentaires rigides."
+    },
+    {
+      "Question": "Comment les troubles de l'alimentation affectent-ils la capacité à apprécier la nourriture ?",
+      "Réponse": "Perte de plaisir à manger, peur de prendre du poids, obsession des calories."
+    },
+    {
+      "Question": "Comment les troubles de l'alimentation affectent-ils la capacité à manger en société ?",
+      "Réponse": "Isolement social, évitement des repas en groupe, peur d'être jugé."
+    },
+    {
+      "Question": "Comment les troubles de l'alimentation affectent-ils la capacité à manger de manière équilibrée ?",
+      "Réponse": "Restriction alimentaire, cycles de suralimentation et de comportements compensatoires, carences nutritionnelles."
+    },
+    {
+      "Question": "Comment les troubles de l'alimentation affectent-ils la capacité à maintenir un poids stable ?",
+      "Réponse": "Fluctuations de poids, obsession du poids, peur de prendre du poids."
+    },
+    {
+      "Question": "Comment les troubles de l'alimentation affectent-ils la capacité à faire de l'exercice de manière saine ?",
+      "Réponse": "Exercice excessif, obsession de l'exercice, blessures."
+    },
+    {
+      "Question": "Comment les troubles de l'alimentation affectent-ils la capacité à se reposer et à récupérer ?",
+      "Réponse": "Troubles du sommeil, fatigue chronique, épuisement."
+    },
+    {
+      "Question": "Comment les troubles de l'alimentation affectent-ils la capacité à prendre soin de sa santé physique ?",
+      "Réponse": "Carences nutritionnelles, problèmes médicaux, complications."
+    },
+    {
+      "Question": "Comment les troubles de l'alimentation affectent-ils la capacité à prendre soin de sa santé mentale ?",
+      "Réponse": "Dépression, anxiété, troubles de la personnalité, suicide."
+    },
+    {
+        "Question": "Comment l'anxiété peut-elle affecter la capacité à se sentir à l'aise avec son propre passé et à guérir des traumatismes ou des expériences difficiles ?",
+        "Réponse": "Rumination sur le passé, culpabilité, honte. Thérapie, EMDR, thérapie des schémas."
+      },
+      {
+        "Question": "Comment les troubles de l'alimentation affectent-ils la capacité à se concentrer sur ses objectifs à long terme ?",
+        "Réponse": "Pensées obsessionnelles liées à la nourriture, difficulté à se projeter, priorisation de l'apparence sur les objectifs."
+      },
+      {
+        "Question": "Comment l'anxiété peut-elle influencer les relations interpersonnelles ?",
+        "Réponse": "Problèmes de communication, repli sur soi-même, peurs irrationnelles, difficulté à maintenir des liens."
+      },
+      {
+        "Question": "Comment les troubles de l'alimentation affectent-ils la capacité à gérer des émotions complexes comme la colère ou la tristesse ?",
+        "Réponse": "Utilisation de la nourriture pour masquer ou apaiser ces émotions, difficulté à exprimer les émotions de manière saine."
+      },
+      {
+        "Question": "Comment les troubles de l'alimentation affectent-ils la capacité à faire face à des changements dans la vie ?",
+        "Réponse": "Résistance au changement, peur de l'incertitude, comportements alimentaires destructeurs pour gérer l'anxiété."
+      },
+      {
+        "Question": "Comment l'anxiété peut-elle nuire à la prise de décision dans des situations stressantes ?",
+        "Réponse": "Indécision, paralysie face à des choix, pensées envahissantes qui empêchent d'agir."
+      },
+      {
+        "Question": "Comment l'anxiété peut-elle affecter les performances scolaires ou professionnelles ?",
+        "Réponse": "Problèmes de concentration, procrastination, surmenage, peur de l'échec."
+      },
+      {
+        "Question": "Comment les troubles de l'alimentation peuvent-ils perturber le sommeil ?",
+        "Réponse": "Insomnie, cauchemars, préoccupations constantes concernant l'alimentation et l'image corporelle."
+      },
+      {
+        "Question": "Comment l'anxiété peut-elle affecter les habitudes alimentaires ?",
+        "Réponse": "Compulsions alimentaires, restriction alimentaire excessive, comportements alimentaires désordonnés comme réponse au stress."
+      },
+      {
+        "Question": "Comment les troubles de l'alimentation affectent-ils l'estime de soi ?",
+        "Réponse": "Sentiment de honte, de dévalorisation, obsession du poids et de l'apparence physique."
+      },
+      {
+        "Question": "Comment les troubles de l'alimentation affectent-ils la gestion du stress ?",
+        "Réponse": "Utilisation de l'alimentation pour gérer le stress, difficultés à trouver d'autres mécanismes de coping sains."
+      },
+      {
+        "Question": "Comment l'anxiété peut-elle être liée à des problèmes de santé physique ?",
+        "Réponse": "Douleurs chroniques, troubles digestifs, tension musculaire, maux de tête fréquents."
+      },
+      {
+        "Question": "Comment l'anxiété peut-elle affecter la gestion des émotions dans des situations sociales ?",
+        "Réponse": "Anxiété sociale, tendance à éviter les interactions, sentiments d'inadéquation ou de jugement."
+      },
+      {
+        "Question": "Comment l'anxiété peut-elle influencer les habitudes de vie et les choix de comportement ?",
+        "Réponse": "Comportements d'évitement, recherche constante de sécurité, prise de décisions irrationnelles ou impulsives."
+      },
+      {
+        "Question": "Comment l'anxiété peut-elle affecter la capacité à se détendre et à profiter des moments de loisirs ?",
+        "Réponse": "Difficulté à se concentrer sur des activités plaisantes, préoccupations persistantes, incapacité à relâcher la tension."
+      },
+      {
+        "Question": "Comment les troubles de l'alimentation peuvent-ils affecter la santé cardiaque ?",
+        "Réponse": "Risque accru de maladies cardiaques, troubles du rythme cardiaque, hypertension, faiblesse musculaire liée à des carences nutritionnelles."
+      },
+      {
+        "Question": "Comment l'anxiété peut-elle perturber les cycles de sommeil ?",
+        "Réponse": "Insomnie, réveils fréquents, sommeil de mauvaise qualité en raison de préoccupations incessantes."
+      },
+      {
+        "Question": "Comment les troubles de l'alimentation affectent-ils la capacité à participer à des activités physiques ?",
+        "Réponse": "Fatigue chronique, faible énergie, évitement de l'exercice en raison de la peur de prendre du poids ou de se blesser."
+      },
+      {
+        "Question": "Comment l'anxiété peut-elle affecter les performances dans des situations de pression ?",
+        "Réponse": "Rendement réduit, pensées négatives, peur de l'échec, surcharge cognitive."
+      },
+      {
+        "Question": "Comment les troubles de l'alimentation peuvent-ils affecter la santé mentale à long terme ?",
+        "Réponse": "Dépression, anxiété, troubles de l'image corporelle, risque accru de comportements suicidaires."
+      },
+      {
+        "Question": "Comment l'anxiété peut-elle se manifester par des symptômes physiques ?",
+        "Réponse": "Palpitations, tremblements, vertiges, douleurs abdominales, tension musculaire."
+      },
+      {
+        "Question": "Comment les troubles de l'alimentation affectent-ils la prise de décision en matière de nutrition ?",
+        "Réponse": "Comportements alimentaires irrationnels, choix alimentaires influencés par la peur du poids ou des calories, restriction alimentaire extrême."
+      }
+  ]
+  

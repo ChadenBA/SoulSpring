@@ -1,0 +1,382 @@
+[
+  {
+    "Question": "Qu'est-ce que le TDAH ?",
+    "Réponse": "Le TDAH est un trouble neurodéveloppemental caractérisé par des difficultés d'attention, d'hyperactivité et d'impulsivité."
+  },
+  {
+    "Question": "Quels sont les différents types de TDAH ?",
+    "Réponse": "TDAH avec prédominance d'inattention TDAH avec prédominance d'hyperactivité impulsivité TDAH combiné."
+  },
+  {
+    "Question": "Quels sont les symptômes de l'inattention dans le TDAH ?",
+    "Réponse": "Difficultés à se concentrer, distractions faciles, oublis fréquents, difficultés à organiser les tâches, difficultés à suivre les instructions."
+  },
+  {
+    "Question": "Quels sont les symptômes de l'hyperactivité dans le TDAH ?",
+    "Réponse": "Agitation, incapacité à rester assis, difficultés à attendre son tour, besoin constant de bouger, bavardage excessif."
+  },
+  {
+    "Question": "Quels sont les symptômes de l'impulsivité dans le TDAH ?",
+    "Réponse": "Difficultés à contrôler ses impulsions, interruptions fréquentes, difficultés à attendre son tour, prises de décision hâtives."
+  },
+  {
+    "Question": "Quels sont les facteurs de risque du TDAH ?",
+    "Réponse": "Génétique, facteurs environnementaux (exposition à des toxines pendant la grossesse), lésions cérébrales."
+  },
+  {
+    "Question": "Comment le TDAH affecte-t-il la vie quotidienne ?",
+    "Réponse": "Difficultés scolaires ou professionnelles, problèmes relationnels, faible estime de soi, troubles du sommeil, troubles anxieux, dépression."
+  },
+  {
+    "Question": "Comment la thérapie peut-elle aider à traiter le TDAH ?",
+    "Réponse": "Thérapie cognitivo-comportementale (TCC), thérapie familiale, entraînement aux habiletés sociales, psychoéducation."
+  },
+  {
+    "Question": "Comment les médicaments peuvent-ils aider à traiter le TDAH ?",
+    "Réponse": "Stimulants (méthylphénidate, amphétamine), non-stimulants (atomoxétine, guanfacine)."
+  },
+  {
+    "Question": "Comment les aménagements scolaires peuvent-ils aider les élèves atteints de TDAH ?",
+    "Réponse": "Temps supplémentaire pour les examens, environnement de classe structuré, aide à l'organisation, soutien individuel."
+  },
+  {
+    "Question": "Comment les aménagements professionnels peuvent-ils aider les adultes atteints de TDAH ?",
+    "Réponse": "Environnement de travail structuré, horaires flexibles, outils d'organisation, soutien individualisé."
+  },
+  {
+    "Question": "Comment les parents peuvent-ils aider un enfant atteint de TDAH ?",
+    "Réponse": "Établir des routines, utiliser des renforcements positifs, enseigner des stratégies d'organisation, rechercher un soutien professionnel."
+  },
+  {
+    "Question": "Comment les adultes atteints de TDAH peuvent-ils gérer leurs symptômes ?",
+    "Réponse": "Techniques de gestion du temps, organisation, exercice physique régulier, sommeil suffisant, alimentation saine, soutien social."
+  },
+  {
+    "Question": "Quelles sont les stratégies d'adaptation pour les personnes atteintes de TDAH ?",
+    "Réponse": "Utiliser des listes de contrôle, diviser les tâches en étapes plus petites, utiliser des minuteries, créer un environnement organisé."
+  },
+  {
+    "Question": "Comment puis-je aider un ami ou un membre de ma famille atteint de TDAH ?",
+    "Réponse": "Écouter avec empathie, offrir un soutien pratique, encourager à rechercher un traitement professionnel."
+  },
+  {
+    "Question": "Quels sont les signes avant-coureurs d'une crise de TDAH ?",
+    "Réponse": "Augmentation de l'agitation, difficultés à se concentrer, irritabilité, impulsivité accrue."
+  },
+  {
+    "Question": "Comment puis-je gérer une crise de TDAH ?",
+    "Réponse": "Se retirer dans un endroit calme, utiliser des techniques de relaxation, parler à un ami ou à un membre de la famille de confiance."
+  },
+  {
+    "Question": "Quelles sont les complications possibles du TDAH non traité ?",
+    "Réponse": "Difficultés scolaires ou professionnelles, problèmes relationnels, troubles anxieux, dépression, abus de substances."
+  },
+  {
+    "Question": "Où puis-je trouver de l'aide pour le TDAH ?",
+    "Réponse": "Professionnels de la santé mentale (psychiatres, psychologues), groupes de soutien, associations de patients."
+  },
+  {
+    "Question": "Comment le TDAH est-il diagnostiqué ?",
+    "Réponse": "Évaluation psychologique, antécédents médicaux, entretiens avec la famille et les enseignants."
+  },
+  {
+    "Question": "Quelles sont les idées fausses courantes sur le TDAH ?",
+    "Réponse": "Le TDAH n'existe pas, le TDAH est juste un manque de discipline, les personnes atteintes de TDAH sont paresseuses."
+  },
+  {
+    "Question": "Comment puis-je développer des stratégies d'organisation efficaces ?",
+    "Réponse": "Utiliser un agenda, créer des listes de tâches, organiser son espace de travail, utiliser des applications de gestion du temps."
+  },
+  {
+    "Question": "Comment puis-je améliorer ma concentration ?",
+    "Réponse": "Éliminer les distractions, diviser les tâches en étapes plus petites, utiliser des techniques de pleine conscience, prendre des pauses régulières."
+  },
+  {
+    "Question": "Comment puis-je gérer mon impulsivité ?",
+    "Réponse": "Pratiquer des techniques de relaxation, identifier les déclencheurs, utiliser des stratégies de contrôle des impulsions."
+  },
+  {
+    "Question": "Comment puis-je améliorer mes compétences sociales ?",
+    "Réponse": "Participer à des groupes de soutien, pratiquer l'écoute active, apprendre à lire les signaux sociaux."
+  },
+  {
+    "Question": "Comment puis-je gérer mes émotions ?",
+    "Réponse": "Identifier et exprimer ses émotions, utiliser des techniques de régulation émotionnelle, rechercher un soutien thérapeutique."
+  },
+  {
+    "Question": "Comment puis-je améliorer mon sommeil ?",
+    "Réponse": "Maintenir une routine de sommeil régulière, créer un environnement de sommeil relaxant, éviter la caféine et l'alcool avant de se coucher."
+  },
+  {
+    "Question": "Comment puis-je gérer mon stress ?",
+    "Réponse": "Pratiquer des techniques de relaxation, faire de l'exercice régulièrement, maintenir un équilibre entre le travail et les loisirs."
+  },
+  {
+    "Question": "Comment puis-je améliorer mon estime de soi ?",
+    "Réponse": "Se concentrer sur ses forces, pratiquer l'auto-compassion, éviter les comparaisons."
+  },
+  {
+    "Question": "Comment puis-je gérer mes problèmes de procrastination ?",
+    "Réponse": "Diviser les tâches en étapes plus petites, utiliser des minuteries, se récompenser pour les tâches accomplies."
+  },
+  {
+    "Question": "Comment puis-je améliorer ma mémoire ?",
+    "Réponse": "Utiliser des techniques de mémorisation, répéter les informations, utiliser des aides visuelles."
+  },
+  {
+    "Question": "Comment puis-je gérer mes problèmes de motivation ?",
+    "Réponse": "Se fixer des objectifs réalisables, se récompenser pour les progrès, trouver des sources d'inspiration."
+  },
+  {
+    "Question": "Comment puis-je améliorer ma communication ?",
+    "Réponse": "Pratiquer l'écoute active, exprimer ses besoins clairement, utiliser des techniques de communication assertive."
+  },
+  {
+    "Question": "Comment puis-je gérer mes problèmes de colère ?",
+    "Réponse": "Identifier les déclencheurs, pratiquer des techniques de gestion de la colère, communiquer ouvertement."
+  },
+  {
+    "Question": "Comment puis-je gérer mes problèmes d'anxiété ?",
+    "Réponse": "Pratiquer des techniques de relaxation, éviter les déclencheurs d'anxiété, rechercher un soutien thérapeutique."
+  },
+  {
+    "Question": "Comment puis-je gérer mes problèmes de dépression ?",
+    "Réponse": "Rechercher un soutien thérapeutique, pratiquer des activités plaisantes, maintenir un réseau de soutien."
+  },
+  {
+    "Question": "Comment puis-je gérer mes problèmes d'abus de substances ?",
+    "Réponse": "Rechercher un traitement spécialisé, participer à des groupes de soutien, éviter les déclencheurs."
+  },
+  {
+    "Question": "Comment puis-je gérer mes problèmes de comorbidités (autres troubles mentaux) ?",
+    "Réponse": "Rechercher un traitement intégré, coordonner les soins avec différents professionnels de la santé mentale."
+  },
+  {
+    "Question": "Comment puis-je gérer les problèmes liés à la grossesse ou à la parentalité avec le TDAH ?",
+    "Réponse": "Planifier la grossesse avec un professionnel de la santé mentale, obtenir un soutien postnatal, utiliser des stratégies de gestion du temps et de l'organisation."
+  },
+  {
+    "Question": "Comment puis-je gérer les problèmes liés au vieillissement avec le TDAH ?",
+    "Réponse": "Maintenir un mode de vie sain, surveiller les médicaments et les interactions, obtenir un soutien social."
+  },
+  {
+    "Question": "Comment le TDAH affecte-t-il les relations interpersonnelles ?",
+    "Réponse": "Difficultés à écouter, interruptions fréquentes, impulsivité, problèmes de gestion de la colère, difficultés à comprendre les signaux sociaux."
+  },
+  {
+    "Question": "Comment le TDAH affecte-t-il la gestion des finances personnelles ?",
+    "Réponse": "Difficultés à établir un budget, dépenses impulsives, oublis de paiement, difficultés à organiser les documents financiers."
+  },
+  {
+    "Question": "Comment le TDAH affecte-t-il la gestion du temps ?",
+    "Réponse": "Difficultés à estimer le temps, procrastination, retards fréquents, difficultés à respecter les échéances."
+  },
+  {
+    "Question": "Comment le TDAH affecte-t-il la gestion des tâches ménagères ?",
+    "Réponse": "Difficultés à organiser les tâches, distractions fréquentes, difficultés à terminer les tâches, oublis."
+  },
+  {
+    "Question": "Comment le TDAH affecte-t-il la gestion des projets à long terme ?",
+    "Réponse": "Difficultés à planifier, manque de suivi, difficultés à maintenir la motivation, changements fréquents de priorités."
+  },
+  {
+    "Question": "Comment le TDAH affecte-t-il la gestion du stress ?",
+    "Réponse": "Vulnérabilité accrue au stress, difficultés à utiliser des stratégies d'adaptation saines, réactions impulsives au stress."
+  },
+  {
+    "Question": "Comment le TDAH affecte-t-il la gestion des émotions ?",
+    "Réponse": "Difficultés à identifier et à exprimer les émotions, réactions émotionnelles intenses, impulsivité émotionnelle."
+  },
+  {
+    "Question": "Comment le TDAH affecte-t-il la gestion de la colère ?",
+    "Réponse": "Réactions impulsives, difficultés à contrôler la colère, problèmes de communication pendant les conflits."
+  },
+  {
+    "Question": "Comment le TDAH affecte-t-il la gestion de l'anxiété ?",
+    "Réponse": "Comorbidité fréquente, difficultés à gérer l'anxiété liée aux symptômes du TDAH, évitement des situations stressantes."
+  },
+  {
+    "Question": "Comment le TDAH affecte-t-il la gestion de la dépression ?",
+    "Réponse": "Comorbidité fréquente, difficultés à maintenir la motivation, difficultés à suivre un traitement."
+  },
+  {
+    "Question": "Comment le TDAH affecte-t-il la gestion des troubles du sommeil ?",
+    "Réponse": "Difficultés à s'endormir, réveils fréquents, sommeil non réparateur, difficultés à maintenir une routine de sommeil."
+  },
+  {
+    "Question": "Comment le TDAH affecte-t-il la gestion des troubles de l'alimentation ?",
+    "Réponse": "Impulsivité alimentaire, difficultés à planifier les repas, oublis de manger, difficultés à maintenir un régime alimentaire sain."
+  },
+  {
+    "Question": "Comment le TDAH affecte-t-il la gestion des dépendances ?",
+    "Réponse": "Vulnérabilité accrue aux dépendances, impulsivité, difficultés à suivre un traitement."
+  },
+  {
+    "Question": "Comment le TDAH affecte-t-il la gestion des comorbidités (autres troubles mentaux) ?",
+    "Réponse": "Difficultés à suivre plusieurs traitements, interactions médicamenteuses, difficultés à coordonner les soins."
+  },
+  {
+    "Question": "Comment le TDAH affecte-t-il la gestion des problèmes liés à la grossesse ou à la parentalité ?",
+    "Réponse": "Difficultés à planifier, impulsivité, difficultés à gérer le stress, troubles du sommeil."
+  },
+  {
+    "Question": "Comment le TDAH affecte-t-il la gestion des problèmes liés au vieillissement ?",
+    "Réponse": "Difficultés à maintenir un mode de vie sain, interactions médicamenteuses, problèmes de mémoire, isolement social."
+  },
+  {
+    "Question": "Comment puis-je créer un environnement de travail ou d'étude adapté au TDAH ?",
+    "Réponse": "Réduire les distractions, organiser l'espace de travail, utiliser des outils d'organisation, établir des routines."
+  },
+  {
+    "Question": "Comment puis-je utiliser la technologie pour gérer les symptômes du TDAH ?",
+    "Réponse": "Applications de gestion du temps, applications de listes de tâches, applications de pleine conscience, rappels."
+  },
+  {
+    "Question": "Comment puis-je utiliser la pleine conscience pour gérer les symptômes du TDAH ?",
+    "Réponse": "Techniques de respiration, méditation, exercices de pleine conscience, attention aux sensations corporelles."
+  },
+  {
+    "Question": "Comment puis-je utiliser l'exercice physique pour gérer les symptômes du TDAH ?",
+    "Réponse": "Activité physique régulière, exercices aérobiques, sports d'équipe, activités de plein air."
+  },
+  {
+    "Question": "Comment puis-je utiliser l'alimentation pour gérer les symptômes du TDAH ?",
+    "Réponse": "Alimentation équilibrée, éviter les aliments transformés, limiter la caféine et le sucre, manger régulièrement."
+  },
+  {
+    "Question": "Comment puis-je utiliser le sommeil pour gérer les symptômes du TDAH ?",
+    "Réponse": "Routine de sommeil régulière, environnement de sommeil relaxant, éviter les écrans avant de se coucher."
+  },
+  {
+    "Question": "Comment puis-je utiliser le soutien social pour gérer les symptômes du TDAH ?",
+    "Réponse": "Groupes de soutien, amis, famille, thérapeute, coach."
+  },
+  {
+    "Question": "Comment puis-je utiliser la thérapie cognitivo-comportementale (TCC) pour gérer les symptômes du TDAH ?",
+    "Réponse": "Identifier et modifier les schémas de pensée négatifs, développer des stratégies d'adaptation, améliorer les compétences en résolution de problèmes."
+  },
+  {
+    "Question": "Comment puis-je utiliser la thérapie familiale pour gérer les symptômes du TDAH ?",
+    "Réponse": "Améliorer la communication familiale, résoudre les conflits, développer des stratégies de soutien familial."
+  },
+  {
+    "Question": "Comment puis-je utiliser l'entraînement aux habiletés sociales pour gérer les symptômes du TDAH ?",
+    "Réponse": "Améliorer les compétences en communication, apprendre à lire les signaux sociaux, développer des stratégies de résolution de conflits."
+  },
+  {
+    "Question": "Comment puis-je utiliser la psychoéducation pour gérer les symptômes du TDAH ?",
+    "Réponse": "Comprendre le TDAH, apprendre à gérer les symptômes, développer des stratégies d'adaptation."
+  },
+  {
+    "Question": "Comment puis-je utiliser les médicaments stimulants pour gérer les symptômes du TDAH ?",
+    "Réponse": "Suivre les instructions du médecin, surveiller les effets secondaires, ajuster la dose si nécessaire."
+  },
+  {
+    "Question": "Comment puis-je utiliser les médicaments non stimulants pour gérer les symptômes du TDAH ?",
+    "Réponse": "Suivre les instructions du médecin, surveiller les effets secondaires, ajuster la dose si nécessaire."
+  },
+  {
+    "Question": "Comment puis-je utiliser les aménagements scolaires ou professionnels pour gérer les symptômes du TDAH ?",
+    "Réponse": "Demander des aménagements adaptés aux besoins individuels, communiquer avec les enseignants ou les employeurs, utiliser les ressources disponibles."
+  },
+  {
+    "Question": "Comment puis-je développer un plan de gestion du TDAH personnalisé ?",
+    "Réponse": "Identifier les symptômes spécifiques, établir des objectifs réalisables, choisir des stratégies de gestion adaptées, évaluer régulièrement les progrès."
+  },
+  {
+    "Question": "Comment puis-je maintenir la motivation à long terme pour gérer le TDAH ?",
+    "Réponse": "Se fixer des objectifs réalisables, se récompenser pour les progrès, trouver des sources d'inspiration, rejoindre une communauté de soutien."
+  },
+  {
+    "Question": "Comment puis-je développer l'auto-compassion et l'acceptation de soi ?",
+    "Réponse": "Reconnaître les difficultés liées au TDAH, se traiter avec gentillesse, éviter les comparaisons, se concentrer sur les forces personnelles."
+  },
+  {
+    "Question": "Comment puis-je gérer les rechutes ou les périodes de difficultés accrues ?",
+    "Réponse": "Identifier les déclencheurs, utiliser des stratégies d'adaptation, demander de l'aide si nécessaire, ajuster le plan de gestion."
+  },
+  {
+    "Question": "Comment puis-je aider un enfant atteint de TDAH à développer son autonomie ?",
+    "Réponse": "Enseigner des stratégies d'organisation, encourager la prise de décisions, offrir des responsabilités adaptées à l'âge."
+  },
+  {
+    "Question": "Comment puis-je aider un adulte atteint de TDAH à développer son autonomie ?",
+    "Réponse": "Soutenir la prise de décisions, encourager l'exploration de nouvelles stratégies, offrir un soutien pratique."
+  },
+  {
+    "Question": "Comment puis-je aider un ami ou un membre de ma famille atteint de TDAH à gérer ses symptômes ?",
+    "Réponse": "Écouter avec empathie, offrir un soutien pratique, encourager à rechercher un traitement professionnel."
+  },
+  {
+    "Question": "Comment puis-je plaider en faveur de la sensibilisation et de la compréhension du TDAH dans ma communauté ?",
+    "Réponse": "Partager des informations fiables, participer à des événements de sensibilisation, soutenir les organisations de défense des droits."
+  },
+  {
+    "Question": "Comment puis-je améliorer ma gestion du temps ?",
+    "Réponse": "Utilisez la technique Pomodoro (25 minutes de travail, 5 minutes de pause), bloquez votre temps avec des plages horaires spécifiques, utilisez des rappels visuels comme des post-it ou des calendriers."
+  },
+  {
+    "Question": "Comment puis-je réduire les distractions ?",
+    "Réponse": "Créez un environnement de travail minimaliste, écoutez de la musique de fond instrumentale, utilisez un casque antibruit, bloquez les sites web distrayants avec des applications."
+  },
+  {
+    "Question": "Comment puis-je contrôler mon impulsivité ?",
+    "Réponse": "Prenez une pause de 3 secondes avant de parler ou d'agir, visualisez les conséquences de vos actions, pratiquez la pleine conscience."
+  },
+  {
+    "Question": "Comment puis-je mieux gérer mes émotions ?",
+    "Réponse": "Tenez un journal de vos pensées et émotions, pratiquez des techniques de relaxation comme la respiration profonde ou le yoga, exprimez-vous à travers l'art ou la musique, essayez la thérapie d'acceptation et d'engagement (ACT)."
+  },
+  {
+    "Question": "Comment puis-je améliorer mes relations interpersonnelles ?",
+    "Réponse": "Communiquez vos besoins clairement, pratiquez l'écoute active, validez les émotions des autres, envisagez une thérapie de couple ou familiale."
+  },
+  {
+    "Question": "Comment puis-je améliorer mon sommeil ?",
+    "Réponse": "Couchez-vous et réveillez-vous à la même heure chaque jour, créez un environnement de sommeil calme et sombre, évitez les écrans avant de dormir, essayez des techniques de relaxation avant de vous coucher."
+  },
+  {
+    "Question": "Comment puis-je améliorer mon alimentation ?",
+    "Réponse": "Privilégiez les aliments entiers et riches en nutriments, consommez des protéines pour l'énergie, incluez des oméga-3 dans votre alimentation, buvez suffisamment d'eau."
+  },
+  {
+    "Question": "Comment l'exercice physique peut-il m'aider ?",
+    "Réponse": "Faites de l'exercice régulier (aérobie ou sports d'équipe), pratiquez des activités de plein air comme la randonnée, essayez le yoga ou le tai-chi pour la concentration."
+  },
+  {
+    "Question": "Comment puis-je gérer mes médicaments ?",
+    "Réponse": "Consultez régulièrement votre médecin, utilisez des rappels pour ne pas oublier vos médicaments, signalez tout effet secondaire."
+  },
+  {
+    "Question": "Comment puis-je gérer les comorbidités ?",
+    "Réponse": "Coordonnez les soins avec différents professionnels de la santé, communiquez ouvertement sur vos symptômes, rejoignez des groupes de soutien."
+  },
+  {
+    "Question": "Comment puis-je gérer les défis spécifiques liés à la grossesse ou au vieillissement ?",
+    "Réponse": "Planifiez à l'avance, organisez-vous, recherchez un soutien social."
+  },
+  {
+    "Question": "Comment puis-je développer l'auto-compassion ?",
+    "Réponse": "Reconnaissez que le TDAH peut rendre certaines choses difficiles, traitez-vous avec gentillesse, concentrez-vous sur vos forces, évitez les comparaisons."
+  },
+  {
+    "Question": "Comment puis-je gérer les rechutes ou les périodes difficiles ?",
+    "Réponse": "Identifiez les déclencheurs, utilisez des stratégies d'adaptation, demandez de l'aide si nécessaire, ajustez votre plan de gestion."
+  },
+  {
+    "Question": "Comment puis-je aider un enfant atteint de TDAH à développer son autonomie ?",
+    "Réponse": "Enseignez des stratégies d'organisation adaptées à l'âge, encouragez la prise de décisions, offrez des responsabilités."
+  },
+  {
+    "Question": "Comment puis-je aider un adulte atteint de TDAH à développer son autonomie ?",
+    "Réponse": "Soutenez la prise de décisions, encouragez l'exploration de nouvelles stratégies, offrez un soutien pratique."
+  },
+  {
+    "Question": "Comment puis-je soutenir un ami ou un membre de ma famille atteint de TDAH ?",
+    "Réponse": "Écoutez avec empathie, offrez un soutien pratique, encouragez-le à rechercher un traitement professionnel."
+  },
+  {
+    "Question": "Comment puis-je sensibiliser au TDAH dans ma communauté ?",
+    "Réponse": "Partagez des informations fiables, participez à des événements de sensibilisation, soutenez les organisations de défense des droits."
+  }
+]

@@ -1,0 +1,17 @@
+export const eu = {
+  title: 'Titre',
+  type: 'Type',
+  title_placeholder: 'Entrez le titre',
+  type_placeholder: 'Entrez le type',
+  title_required: 'Le titre est requis',
+  learning_objects: "Objets d'apprentissage",
+  basic: 'Unité éducative de base',
+  add_basic_eu: 'Ajouter une unité éducative de base',
+  eu: 'Unité éducative',
+  add: 'Ajouter',
+  basic_eu: 'Unité éducative de base',
+  intermediate_eu: 'Unité éducative intermédiaire',
+  advanced_eu: 'Unité éducative avancée',
+  supplementary_materials: 'Matériaux supplémentaires',
+  new_eu: 'Nouvelle unité éducative',
+};

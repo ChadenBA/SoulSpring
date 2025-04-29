@@ -1,0 +1,17 @@
+flask
+requests
+joblib
+numpy
+pandas
+scikit-learn
+imblearn
+nltk
+# ast
+# transformers 
+# torch 
+# stanza
+# sentence-transformers 
+# stanza 
+# scikit-learn 
+
+

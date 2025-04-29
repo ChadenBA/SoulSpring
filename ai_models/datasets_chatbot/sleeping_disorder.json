@@ -1,0 +1,62 @@
+[
+    {
+      "Question": "Quelles sont les causes courantes des troubles du sommeil ?",
+      "Réponse": "Le stress, l'anxiété, la dépression, les changements d'horaires, une mauvaise hygiène de sommeil, certains médicaments, la caféine, l'alcool, la nicotine, et certaines conditions médicales comme l'apnée du sommeil ou le syndrome des jambes sans repos."
+    },
+    {
+      "Question": "Quels sont les effets à long terme du manque de sommeil ?",
+      "Réponse": "Fatigue chronique, troubles de la concentration, irritabilité, affaiblissement du système immunitaire, risque accru de maladies cardiovasculaires, prise de poids, et troubles de l'humeur."
+    },
+    {
+      "Question": "Comment puis-je améliorer mon hygiène de sommeil ?",
+      "Réponse": "Établir une routine de sommeil régulière, créer un environnement de sommeil calme et sombre, éviter les écrans avant de dormir, limiter la caféine et l'alcool, faire de l'exercice régulièrement, et pratiquer des techniques de relaxation."
+    },
+    {
+      "Question": "Quels sont les signes d'un trouble du sommeil grave ?",
+      "Réponse": "Difficulté à s'endormir ou à rester endormi plusieurs fois par semaine, somnolence diurne excessive, ronflements forts, pauses respiratoires pendant le sommeil, et mouvements incontrôlables des jambes pendant la nuit."
+    },
+    {
+      "Question": "Quand devrais-je consulter un médecin pour mes problèmes de sommeil ?",
+      "Réponse": "Si les troubles du sommeil persistent malgré les changements de mode de vie, s'ils affectent votre fonctionnement quotidien, ou si vous présentez des signes de troubles du sommeil graves."
+    },
+    {
+      "Question": "Quelles sont les options de traitement pour les troubles du sommeil ?",
+      "Réponse": "La thérapie cognitivo-comportementale pour l'insomnie (TCC-I), les médicaments sur ordonnance, les appareils de pression positive continue (PPC) pour l'apnée du sommeil, et les suppléments de mélatonine."
+    },
+    {
+      "Question": "Comment le stress affecte-t-il le sommeil ?",
+      "Réponse": "Le stress peut rendre difficile l'endormissement ou provoquer des réveils nocturnes, car il active le système nerveux et augmente la production d'hormones de stress comme le cortisol."
+    },
+    {
+      "Question": "Quels sont les effets de l'alcool sur le sommeil ?",
+      "Réponse": "L'alcool peut aider à s'endormir plus rapidement, mais il perturbe la qualité du sommeil, provoquant des réveils nocturnes et un sommeil moins réparateur."
+    },
+    {
+      "Question": "Comment la caféine affecte-t-elle le sommeil ?",
+      "Réponse": "La caféine est un stimulant qui peut rendre difficile l'endormissement et perturber le sommeil, même consommée plusieurs heures avant le coucher."
+    },
+    {
+      "Question": "Quelles techniques de relaxation peuvent aider à améliorer le sommeil ?",
+      "Réponse": "La respiration profonde, la méditation, le yoga, la relaxation musculaire progressive, et les bains chauds."
+    },
+    {
+      "Question": "Comment l'alimentation influence-t-elle le sommeil ?",
+      "Réponse": "Les repas lourds et gras avant le coucher peuvent rendre difficile l'endormissement, tandis qu'une alimentation équilibrée favorise un sommeil réparateur."
+    },
+    {
+      "Question": "Quel rôle joue l'activité physique dans la qualité du sommeil ?",
+      "Réponse": "L'exercice régulier peut améliorer la qualité du sommeil, mais il est préférable de l'éviter quelques heures avant le coucher."
+    },
+    {
+      "Question": "Comment créer un environnement de sommeil idéal ?",
+      "Réponse": "Une chambre sombre, calme et fraîche, un matelas et des oreillers confortables, et l'absence d'appareils électroniques."
+    },
+    {
+      "Question": "Quels sont les effets des écrans (téléphone, ordinateur, tablette) sur le sommeil ?",
+      "Réponse": "La lumière bleue émise par les écrans peut supprimer la production de mélatonine, une hormone qui régule le sommeil, rendant l'endormissement plus difficile."
+    },
+    {
+      "Question": "Comment les changements d'horaires (travail de nuit, voyages) affectent-ils le sommeil ?",
+      "Réponse": "Ils peuvent perturber le rythme circadien, l'horloge interne du corps, entraînant des difficultés d'endormissement et de la somnolence diurne."
+    }
+  ]

@@ -1,0 +1,17 @@
+export const sidebar = {
+  dashboard: 'Tableau de bord',
+  profile: 'Profil',
+  enrolled_courses: 'Cours inscrits',
+  my_quiz: 'Mes prétests des cours',
+  my_certificates: 'Mes certificats',
+  my_calendar: 'Mon calendrier',
+  account_settings: 'Paramètres du compte',
+  users: 'Gérer les apprenants',
+  language: 'Gérer les langues',
+  category: 'Gérer les catégories',
+  pending_users: 'Utilisateurs en attente',
+  courses: 'Mes cours',
+  learning_path: "Mes parcours d'apprentissage",
+  quizzes: 'Mes quiz',
+  myMessge: "Mes messages",
+};

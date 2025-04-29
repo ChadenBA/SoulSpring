@@ -1,0 +1,422 @@
+[
+    {
+      "Question": "Quels sont les signes physiques du stress ?",
+      "Réponse": "Maux de tête, tensions musculaires, palpitations, troubles du sommeil, problèmes digestifs. Consulter un médecin, pratiquer des techniques de relaxation, réduire les facteurs de stress."
+    },
+    {
+      "Question": "Comment le stress affecte-t-il la santé mentale ?",
+      "Réponse": "Anxiété, irritabilité, difficultés de concentration, dépression, épuisement émotionnel. Thérapie, soutien social, techniques de gestion du stress, médicaments si nécessaire."
+    },
+    {
+      "Question": "Quelles sont les causes courantes du stress au travail ?",
+      "Réponse": "Surcharge de travail, manque de reconnaissance, conflits interpersonnels, insécurité de l'emploi. Communication, délégation, gestion du temps, recherche de soutien."
+    },
+    {
+      "Question": "Comment gérer le stress lié aux examens ?",
+      "Réponse": "Planification, techniques de relaxation, sommeil suffisant, alimentation équilibrée. Organisation, pauses régulières, exercices de respiration, révision progressive."
+    },
+    {
+      "Question": "Quels sont les bienfaits de la méditation pour réduire le stress ?",
+      "Réponse": "Calme l'esprit, réduit l'anxiété, améliore la concentration, favorise la détente. Pratique régulière, environnements calmes, pleine conscience."
+    },
+    {
+      "Question": "Comment la pratique régulière de l'exercice physique aide-t-elle à gérer le stress ?",
+      "Réponse": "Libère des endorphines, améliore l'humeur, réduit les tensions musculaires, favorise le sommeil. Activité physique régulière, choix d'activités plaisantes, intégration dans la routine."
+    },
+    {
+      "Question": "Quels sont les effets du stress chronique sur le corps ?",
+      "Réponse": "Affaiblissement du système immunitaire, troubles cardiovasculaires, problèmes de peau, troubles digestifs. Suivi médical, changement de mode de vie, thérapie, gestion du stress."
+    },
+    {
+      "Question": "Comment reconnaître les signes de stress chez un enfant ?",
+      "Réponse": "Changements de comportement, irritabilité, difficultés de sommeil, problèmes scolaires. Communication, écoute, soutien émotionnel, activités relaxantes."
+    },
+    {
+      "Question": "Quelles sont les techniques de relaxation efficaces pour réduire le stress ?",
+      "Réponse": "Respiration profonde, relaxation musculaire progressive, yoga, tai-chi. Pratique régulière, environnements calmes, choix de techniques adaptées."
+    },
+    {
+      "Question": "Comment le stress affecte-t-il les relations interpersonnelles ?",
+      "Réponse": "Irritabilité, isolement, conflits, difficultés de communication. Communication, écoute, empathie, gestion des conflits."
+    },
+    {
+      "Question": "Comment gérer le stress lié aux finances ?",
+      "Réponse": "Budget, planification, conseils financiers, réduction des dépenses. Organisation, suivi des dépenses, recherche de solutions, gestion du temps."
+    },
+    {
+      "Question": "Quels sont les bienfaits de la thérapie pour gérer le stress ?",
+      "Réponse": "Identification des causes, développement de stratégies, soutien émotionnel, amélioration de la résilience. Suivi régulier, ouverture, engagement dans le processus."
+    },
+    {
+      "Question": "Comment le stress affecte-t-il la productivité ?",
+      "Réponse": "Difficultés de concentration, erreurs, procrastination, épuisement professionnel. Gestion du temps, pauses régulières, organisation, délégation."
+    },
+    {
+      "Question": "Quelles sont les stratégies pour gérer le stress lié aux réseaux sociaux ?",
+      "Réponse": "Limitation du temps passé, désactivation des notifications, sélection des contenus, pratique de la pleine conscience. Limites de temps, choix de contenus positifs, pratique de la pleine conscience."
+    },
+    {
+      "Question": "Comment le stress affecte-t-il le sommeil ?",
+      "Réponse": "Insomnie, réveils nocturnes, cauchemars, sommeil non réparateur. Routine de sommeil, environnement calme, techniques de relaxation."
+    },
+    {
+      "Question": "Quels sont les bienfaits des activités créatives pour réduire le stress ?",
+      "Réponse": "Expression des émotions, détente, stimulation mentale, sentiment d'accomplissement. Activités plaisantes, expression libre, temps pour soi."
+    },
+    {
+      "Question": "Comment gérer le stress lié aux changements de vie ?",
+      "Réponse": "Adaptation progressive, soutien social, acceptation, recherche de nouvelles opportunités. Planification, soutien social, acceptation, flexibilité."
+    },
+    {
+      "Question": "Comment le stress affecte-t-il l'alimentation ?",
+      "Réponse": "Compulsions alimentaires, perte d'appétit, troubles alimentaires, carences nutritionnelles. Alimentation équilibrée, suivi nutritionnel, gestion des émotions."
+    },
+    {
+      "Question": "Quels sont les bienfaits des techniques de gestion du temps pour réduire le stress ?",
+      "Réponse": "Organisation, priorité, efficacité, sentiment de contrôle. Planification, priorités, outils de gestion du temps."
+    },
+    {
+      "Question": "Comment le stress affecte-t-il la mémoire ?",
+      "Réponse": "Difficultés de concentration, oublis, troubles de la mémoire à court terme. Techniques de mémorisation, pauses régulières, gestion du stress."
+    },
+    {
+      "Question": "Comment détecter le stress chez un adolescent ?",
+      "Réponse": "Isolement, changement d'humeur, problème scolaire, trouble du sommeil. Communication, écoute, soutien émotionnel, activités relaxantes."
+    },
+    {
+      "Question": "Quelles sont les méthodes pour gérer le stress au quotidien ?",
+      "Réponse": "Exercice physique, relaxation, sommeil suffisant, alimentation saine. Routine saine, activités plaisantes, gestion du temps."
+    },
+    {
+      "Question": "Comment surmonter le stress post-traumatique ?",
+      "Réponse": "Thérapie, soutien social, groupe de parole, technique de relaxation. Thérapie spécialisée, soutien social, groupes de parole, techniques de relaxation."
+    },
+    {
+      "Question": "Comment gérer le stress lié à la prise de parole en public ?",
+      "Réponse": "Préparation, exercice de respiration, visualisation positive, technique de relaxation. Préparation, exercices de respiration, visualisation positive, techniques de relaxation."
+    },
+    {
+      "Question": "Quels sont les bienfaits du yoga pour réduire le stress ?",
+      "Réponse": "Améliore la flexibilité, calme l'esprit, réduit la tension musculaire, favorise la détente. Pratique régulière, environnements calmes, choix de styles adaptés."
+    },
+    {
+      "Question": "Comment le stress affecte-t-il la prise de décision ?",
+      "Réponse": "Difficulté à prendre des décisions, impulsivité, manque de jugement. Pauses, réflexion, recherche d'informations, gestion du stress."
+    },
+    {
+      "Question": "Quelles sont les méthodes pour gérer le stress au travail d'équipe ?",
+      "Réponse": "Communication, coopération, répartition des tâches, écoute active. Communication, coopération, répartition des tâches, écoute active."
+    },
+    {
+      "Question": "Comment gérer le stress lié au changement de carrière ?",
+      "Réponse": "Planification, formation, mise à jour du CV, recherche d'emploi. Planification, formation, mise à jour du CV, recherche d'emploi."
+    },
+    {
+      "Question": "Comment le stress affecte-t-il la créativité ?",
+      "Réponse": "Blocage créatif, manque d'inspiration, difficultés à se concentrer. Pauses, activités créatives, environnements inspirants, gestion du stress."
+    },
+    {
+      "Question": "Quels sont les bienfaits de la sophrologie pour réduire le stress ?",
+      "Réponse": "Détente musculaire, visualisation positive, respiration contrôlée, gestion des émotions. Pratique régulière, environnements calmes, techniques de relaxation."
+    },
+    {
+      "Question": "Comment le stress affecte-t-il la confiance en soi ?",
+      "Réponse": "Doute de soi, peur de l'échec, manque d'assurance, sentiment d'incompétence. Affirmation de soi, identification des forces, gestion des pensées négatives."
+    },
+    {
+      "Question": "Quelles sont les stratégies pour gérer le stress lié à la parentalité ?",
+      "Réponse": "Soutien du partenaire, organisation, temps pour soi, demande d'aide. Soutien du partenaire, organisation, temps pour soi, demande d'aide."
+    },
+    {
+      "Question": "Comment le stress affecte-t-il la libido ?",
+      "Réponse": "Baisse du désir, troubles de l'érection, difficultés à atteindre l'orgasme. Communication, relaxation, gestion du stress, consultation médicale."
+    },
+    {
+      "Question": "Quels sont les bienfaits de la pleine conscience pour réduire le stress ?",
+      "Réponse": "Présence à l'instant présent, acceptation, réduction de l'anxiété, amélioration de la concentration. Pratique régulière, environnements calmes, pleine conscience."
+    },
+    {
+      "Question": "Comment le stress affecte-t-il la performance sportive ?",
+      "Réponse": "Tension musculaire, difficultés de concentration, perte de motivation, blessures. Préparation mentale, techniques de relaxation, gestion du stress."
+    },
+    {
+      "Question": "Quelles sont les méthodes pour gérer le stress lié à la maladie chronique ?",
+      "Réponse": "Soutien médical, gestion des symptômes, adaptation, soutien psychologique. Suivi médical, thérapie, groupes de parole, gestion du stress."
+    },
+    {
+      "Question": "Comment le stress affecte-t-il le système immunitaire ?",
+      "Réponse": "Affaiblissement des défenses, vulnérabilité aux infections, ralentissement de la guérison. Suivi médical, alimentation saine, sommeil suffisant, gestion du stress."
+    },
+    {
+      "Question": "Quels sont les bienfaits de l'aromathérapie pour réduire le stress ?",
+      "Réponse": "Détente, amélioration de l'humeur, réduction de l'anxiété, favorise le sommeil. Choix d'huiles essentielles adaptées, environnements calmes, relaxation."
+    },
+    {
+      "Question": "Comment le stress affecte-t-il la communication ?",
+      "Réponse": "Irritabilité, agressivité, difficultés à exprimer ses besoins, incompréhension. Communication, écoute active, empathie, gestion des conflits."
+    },
+    {
+      "Question": "Quelles sont les stratégies pour gérer le stress lié à la solitude ?",
+      "Réponse": "Socialisation, activités de groupe, bénévolat, animaux de compagnie. Socialisation, activités de groupe, bénévolat, animaux de compagnie."
+    },
+    {
+      "Question": "Comment le stress affecte-t-il l'apprentissage ?",
+      "Réponse": "Difficultés de concentration, troubles de la mémoire, manque de motivation, erreurs. Pauses régulières, techniques de mémorisation, gestion du stress."
+    },
+    {
+      "Question": "Quels sont les bienfaits de la musicothérapie pour réduire le stress ?",
+      "Réponse": "Détente, amélioration de l'humeur, réduction de l'anxiété, expression des émotions. Choix de musiques relaxantes, environnements calmes, écoute régulière."
+    },
+    {
+      "Question": "Comment le stress affecte-t-il la motivation ?",
+      "Réponse": "Perte d'intérêt, procrastination, manque d'énergie, sentiment d'impuissance. Objectifs réalisables, récompenses, gestion du temps, soutien."
+    },
+    {
+      "Question": "Quelles sont les méthodes pour gérer le stress lié à la prise de poids ?",
+      "Réponse": "Alimentation équilibrée, exercice physique, gestion des émotions, soutien psychologique. Suivi nutritionnel, activité physique régulière, gestion des émotions, soutien."
+    },
+    {
+      "Question": "Comment le stress affecte-t-il la perception de la douleur ?",
+      "Réponse": "Augmentation de la sensibilité, douleurs chroniques, tensions musculaires. Suivi médical, thérapie, techniques de relaxation, gestion du stress."
+    },
+    {
+      "Question": "Quels sont les bienfaits de l'art-thérapie pour réduire le stress ?",
+      "Réponse": "Expression des émotions, détente, créativité, amélioration de l'estime de soi. Activités artistiques, expression libre, environnements inspirants."
+    },
+    {
+      "Question": "Comment le stress affecte-t-il la régulation émotionnelle ?",
+      "Réponse": "Instabilité émotionnelle, irritabilité, difficultés à gérer les émotions, réactions excessives. Techniques de gestion des émotions, thérapie, pleine conscience."
+    },
+    {
+      "Question": "Quelles sont les stratégies pour gérer le stress lié à la perte d'un être cher ?",
+      "Réponse": "Deuil, soutien social, groupe de parole, thérapie. Soutien social, thérapie, groupes de parole, gestion du deuil."
+    },
+    {
+      "Question": "Comment le stress affecte-t-il la santé cardiovasculaire ?",
+      "Réponse": "Hypertension, palpitations, troubles du rythme cardiaque, risque de crise cardiaque. Suivi médical, changement de mode de vie, gestion du stress, thérapie."
+    },
+    {
+      "Question": "Quels sont les bienfaits de la thérapie par le rire pour réduire le stress ?",
+      "Réponse": "Libération d'endorphines, détente, amélioration de l'humeur, renforcement du système immunitaire. Activités humoristiques, environnements joyeux, rire régulier."
+    },
+    {
+      "Question": "Comment le stress affecte-t-il la digestion ?",
+      "Réponse": "Troubles digestifs, maux de ventre, constipation, diarrhée. Alimentation équilibrée, hydratation, gestion du stress, consultation médicale."
+    },
+    {
+      "Question": "Quelles sont les méthodes pour gérer le stress lié à la performance professionnelle ?",
+      "Réponse": "Préparation, organisation, gestion du temps, soutien des collègues. Préparation, organisation, gestion du temps, soutien des collègues."
+    },
+    {
+      "Question": "Comment le stress affecte-t-il la peau ?",
+      "Réponse": "Acné, eczéma, psoriasis, urticaire. Soins de la peau, gestion du stress, consultation dermatologique."
+    },
+    {
+      "Question": "Quels sont les bienfaits de la thérapie par les animaux pour réduire le stress ?",
+      "Réponse": "Détente, affection, réduction de l'anxiété, amélioration de l'humeur. Interaction avec des animaux, environnements calmes, affection."
+    },
+    {
+      "Question": "Comment le stress affecte-t-il les cheveux ?",
+      "Réponse": "Chute de cheveux, cheveux blancs, fragilité capillaire. Soins capillaires, gestion du stress, consultation dermatologique."
+    },
+    {
+      "Question": "Quelles sont les stratégies pour gérer le stress lié à la retraite ?",
+      "Réponse": "Planification, activités de loisirs, maintien du lien social, bénévolat. Planification, activités de loisirs, maintien du lien social, bénévolat."
+    },
+    {
+      "Question": "Comment le stress affecte-t-il la vision ?",
+      "Réponse": "Tension oculaire, vision floue, fatigue visuelle. Pauses régulières, exercices oculaires, gestion du stress."
+    },
+    {
+      "Question": "Quels sont les bienfaits de la thérapie par la nature pour réduire le stress ?",
+      "Réponse": "Détente, connexion à la nature, amélioration de l'humeur, réduction de l'anxiété. Activités en plein air, environnements naturels, contemplation."
+    },
+    {
+      "Question": "Comment le stress affecte-t-il les dents ?",
+      "Réponse": "Grincement des dents, bruxisme, douleurs dentaires. Protection dentaire, gestion du stress, consultation dentaire."
+    },
+    {
+      "Question": "Quelles sont les méthodes pour gérer le stress lié à la prise de responsabilités ?",
+      "Réponse": "Organisation, délégation, soutien, gestion du temps. Organisation, délégation, soutien, gestion du temps."
+    },
+    {
+      "Question": "Comment le stress affecte-t-il la capacité à se concentrer ?",
+      "Réponse": "Difficulté à focaliser son attention, distractions fréquentes, pensées dispersées. Techniques de concentration, pauses régulières, environnements calmes."
+    },
+    {
+      "Question": "Quels sont les bienfaits du sport d'équipe pour réduire le stress ?",
+      "Réponse": "Coopération, soutien mutuel, sentiment d'appartenance, distraction positive. Activités sportives en équipe, environnements conviviaux, coopération."
+    },
+    {
+      "Question": "Comment gérer le stress lié à un déménagement ?",
+      "Réponse": "Planification, organisation, soutien familial, acceptation du changement. Planification, organisation, soutien familial, acceptation du changement."
+    },
+    {
+      "Question": "Comment le stress affecte-t-il l'estime de soi ?",
+      "Réponse": "Sentiment d'incompétence, manque de confiance en ses capacités, auto-critique sévère. Affirmation de soi, identification des forces, gestion des pensées négatives."
+    },
+    {
+      "Question": "Quelles sont les stratégies pour gérer le stress lié à une maladie grave ?",
+      "Réponse": "Soutien médical, thérapie, groupe de parole, acceptation de la situation. Soutien médical, thérapie, groupes de parole, acceptation de la situation."
+    },
+    {
+      "Question": "Comment le stress affecte-t-il la régulation de l'humeur ?",
+      "Réponse": "Sautes d'humeur, irritabilité, tristesse, sentiment d'impuissance. Techniques de gestion des émotions, thérapie, pleine conscience."
+    },
+    {
+      "Question": "Quels sont les bienfaits de l'humour pour réduire le stress ?",
+      "Réponse": "Détente, rire, perspective positive, relativisation des problèmes. Activités humoristiques, environnements joyeux, rire régulier."
+    },
+    {
+      "Question": "Comment gérer le stress lié à une situation de deuil ?",
+      "Réponse": "Deuil, soutien familial, thérapie, acceptation de la perte. Soutien familial, thérapie, groupes de parole, gestion du deuil."
+    },
+    {
+      "Question": "Comment le stress affecte-t-il la capacité à prendre du recul ?",
+      "Réponse": "Difficulté à relativiser les problèmes, focalisation sur les aspects négatifs, manque de perspective. Pauses, réflexion, recherche d'informations, gestion du stress."
+    },
+    {
+      "Question": "Quelles sont les stratégies pour gérer le stress lié à une situation de chômage ?",
+      "Réponse": "Recherche d'emploi, formation, soutien social, acceptation de la situation. Recherche d'emploi, formation, soutien social, acceptation de la situation."
+    },
+    {
+      "Question": "Comment le stress affecte-t-il la capacité à se détendre ?",
+      "Réponse": "Tension musculaire, difficultés à lâcher prise, pensées envahissantes, insomnie. Techniques de relaxation, environnements calmes, gestion du stress."
+    },
+    {
+      "Question": "Quels sont les bienfaits de la relaxation musculaire progressive pour réduire le stress ?",
+      "Réponse": "Détente musculaire, calme mental, réduction de l'anxiété, amélioration du sommeil. Pratique régulière, environnements calmes, techniques de relaxation."
+    },
+    {
+      "Question": "Comment gérer le stress lié à une situation de conflit ?",
+      "Réponse": "Communication, écoute active, recherche de compromis, gestion des émotions. Communication, écoute active, recherche de compromis, gestion des émotions."
+    },
+    {
+      "Question": "Comment le stress affecte-t-il la capacité à communiquer efficacement ?",
+      "Réponse": "Difficultés à exprimer ses besoins, agressivité, incompréhension, conflits. Communication, écoute active, empathie, gestion des conflits."
+    },
+    {
+      "Question": "Quelles sont les stratégies pour gérer le stress lié à une situation de changement professionnel ?",
+      "Réponse": "Planification, adaptation, formation, développement de nouvelles compétences. Planification, adaptation, formation, développement de nouvelles compétences."
+    },
+    {
+      "Question": "Comment le stress affecte-t-il la capacité à gérer son temps ?",
+      "Réponse": "Difficultés à organiser son emploi du temps, procrastination, sentiment de débordement. Planification, priorités, outils de gestion du temps."
+    },
+    {
+      "Question": "Quels sont les bienfaits de la thérapie cognitivo-comportementale pour réduire le stress ?",
+      "Réponse": "Identification des pensées négatives, modification des comportements, développement de stratégies d'adaptation. Suivi régulier, ouverture, engagement dans le processus."
+    },
+    {
+      "Question": "Comment gérer le stress lié à une situation de maladie chronique ?",
+      "Réponse": "Soutien médical, gestion des symptômes, adaptation, soutien psychologique. Suivi médical, thérapie, groupes de parole, gestion du stress."
+    },
+    {
+      "Question": "Comment le stress affecte-t-il la capacité à prendre soin de soi ?",
+      "Réponse": "Négligence de son bien-être physique et mental, manque de sommeil, mauvaise alimentation, isolement. Routine saine, activités plaisantes, gestion du temps."
+    },
+    {
+      "Question": "Quelles sont les stratégies pour gérer le stress lié à une situation de harcèlement ?",
+      "Réponse": "Soutien psychologique, témoignages, démarches juridiques, protection. Soutien psychologique, démarches juridiques, protection, gestion du stress."
+    },
+    {
+      "Question": "Comment le stress affecte-t-il la capacité à prendre des décisions éclairées ?",
+      "Réponse": "Impulsivité, manque de réflexion, erreurs de jugement, difficultés à évaluer les conséquences. Pauses, réflexion, recherche d'informations, gestion du stress."
+    },
+    {
+      "Question": "Quels sont les bienfaits de la thérapie de groupe pour réduire le stress ?",
+      "Réponse": "Soutien social, partage d'expériences, développement de stratégies d'adaptation, sentiment d'appartenance. Suivi régulier, ouverture, engagement dans le processus."
+    },
+    {
+      "Question": "Comment gérer le stress lié à une situation de discrimination ?",
+      "Réponse": "Soutien psychologique, témoignages, démarches juridiques, lutte contre les préjugés. Soutien psychologique, démarches juridiques, lutte contre les préjugés, gestion du stress."
+    },
+    {
+      "Question": "Comment le stress affecte-t-il la capacité à maintenir des relations saines ?",
+      "Réponse": "Irritabilité, conflits, isolement, difficultés à communiquer ses besoins. Communication, écoute active, empathie, gestion des conflits."
+    },
+    {
+      "Question": "Quelles sont les stratégies pour gérer le stress lié à une situation de violence ?",
+      "Réponse": "Soutien psychologique, démarches juridiques, protection, reconstruction. Soutien psychologique, démarches juridiques, protection, reconstruction."
+    },
+    {
+      "Question": "Comment le stress affecte-t-il la capacité à s'adapter aux changements ?",
+      "Réponse": "Résistance au changement, difficultés à accepter les nouvelles situations, anxiété, peur de l'inconnu. Planification, adaptation, soutien social, acceptation du changement."
+    },
+    {
+      "Question": "Quels sont les bienfaits de la thérapie familiale pour réduire le stress familial ?",
+      "Réponse": "Communication, résolution de conflits, soutien mutuel, renforcement des liens familiaux. Suivi régulier, ouverture, engagement dans le processus."
+    },
+    {
+      "Question": "Comment gérer le stress lié à une situation de deuil familial ?",
+      "Réponse": "Deuil, soutien familial, thérapie, acceptation de la perte, reconstruction. Soutien familial, thérapie, groupes de parole, gestion du deuil."
+    },
+    {
+      "Question": "Comment le stress affecte-t-il la capacité à maintenir un équilibre entre vie professionnelle et vie personnelle ?",
+      "Réponse": "Surcharge de travail, difficultés à concilier les deux sphères, épuisement professionnel, conflits familiaux. Planification, priorités, outils de gestion du temps."
+    },
+    {
+      "Question": "Quelles sont les stratégies pour gérer le stress lié à une situation d'épuisement professionnel ?",
+      "Réponse": "Repos, soutien psychologique, réorganisation du travail, changement de carrière. Repos, soutien psychologique, réorganisation du travail, changement de carrière."
+    },
+    {
+      "Question": "Comment le stress affecte-t-il la capacité à maintenir une bonne santé physique et mentale ?",
+      "Réponse": "Troubles du sommeil, problèmes digestifs, maladies chroniques, dépression, anxiété. Suivi médical, thérapie, changement de mode de vie, gestion du stress."
+    },
+    {
+      "Question": "Quels sont les bienfaits de la thérapie de couple pour réduire le stress relationnel ?",
+      "Réponse": "Communication, résolution de conflits, renforcement des liens, amélioration de la compréhension mutuelle. Suivi régulier, ouverture, engagement dans le processus."
+    },
+    {
+      "Question": "Comment gérer le stress lié à une situation de maladie grave dans le couple ?",
+      "Réponse": "Soutien mutuel, communication, adaptation, acceptation de la situation, recherche de soutien extérieur. Soutien mutuel, communication, adaptation, acceptation de la situation, recherche de soutien extérieur."
+    },
+    {
+      "Question": "Comment le stress affecte-t-il la capacité à maintenir une vie sociale épanouissante ?",
+      "Réponse": "Isolement, difficultés à maintenir des relations sociales, manque de temps, fatigue. Socialisation, activités de groupe, bénévolat, animaux de compagnie."
+    },
+    {
+      "Question": "Quelles sont les stratégies pour gérer le stress lié à une situation de deuil dans le couple ?",
+      "Réponse": "Deuil, soutien mutuel, communication, acceptation de la perte, reconstruction. Soutien mutuel, communication, acceptation de la perte, reconstruction."
+    },
+    {
+      "Question": "Comment le stress affecte-t-il la capacité à maintenir une bonne santé financière ?",
+      "Réponse": "Difficultés à gérer son budget, dépenses impulsives, endettement, anxiété financière. Planification budgétaire, gestion des dettes, développement de stratégies financières, réduction de l'anxiété."
+    },
+    {
+      "Question": "Quels sont les bienfaits de la thérapie financière pour réduire le stress financier ?",
+      "Réponse": "Planification budgétaire, gestion des dettes, développement de stratégies financières, réduction de l'anxiété. Planification budgétaire, gestion des dettes, développement de stratégies financières, réduction de l'anxiété."
+    },
+    {
+      "Question": "Comment gérer le stress lié à une situation de crise financière ?",
+      "Réponse": "Planification budgétaire, recherche de soutien financier, réduction des dépenses, acceptation de la situation. Planification budgétaire, recherche de soutien financier, réduction des dépenses, acceptation de la situation."
+    },
+    {
+      "Question": "Comment le stress affecte-t-il la capacité à maintenir un bon équilibre émotionnel ?",
+      "Réponse": "Sautes d'humeur, irritabilité, tristesse, anxiété, difficultés à gérer les émotions. Techniques de gestion des émotions, thérapie, pleine conscience."
+    },
+    {
+      "Question": "Quelles sont les stratégies pour gérer le stress lié à une situation de deuil financier ?",
+      "Réponse": "Deuil, soutien social, gestion des finances, reconstruction financière. Soutien social, gestion des finances, reconstruction financière."
+    },
+    {
+      "Question": "Comment le stress affecte-t-il la capacité à maintenir une bonne santé mentale après un traumatisme ?",
+      "Réponse": "Troubles anxieux, dépression, troubles du sommeil, difficultés à gérer les émotions, flashbacks. Thérapie spécialisée, soutien social, groupes de parole, techniques de relaxation."
+    },
+    {
+      "Question": "Quels sont les bienfaits de la thérapie EMDR pour réduire le stress post-traumatique ?",
+      "Réponse": "Traitement des souvenirs traumatiques, réduction des symptômes, amélioration de la qualité de vie. Suivi régulier, ouverture, engagement dans le processus."
+    },
+    {
+      "Question": "Comment gérer le stress lié à une situation de deuil traumatique ?",
+      "Réponse": "Deuil, soutien psychologique, thérapie, reconstruction, acceptation de la perte. Soutien psychologique, thérapie, groupes de parole, gestion du deuil."
+    },
+    {
+      "Question": "Comment le stress affecte-t-il la capacité à maintenir une bonne qualité de vie après une maladie grave ?",
+      "Réponse": "Fatigue, douleurs chroniques, troubles du sommeil, difficultés à gérer les émotions, isolement social. Suivi médical, thérapie, adaptation, acceptation de la situation, recherche de soutien social."
+    },
+    {
+      "Question": "Quelles sont les stratégies pour gérer le stress lié à une situation de maladie grave à long terme ?",
+      "Réponse": "Soutien médical, thérapie, adaptation, acceptation de la situation, recherche de soutien social. Suivi médical, thérapie, adaptation, acceptation de la situation, recherche de soutien social."
+    }
+  ]
