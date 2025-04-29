@@ -1,0 +1,72 @@
+name: CI/CD Pipeline 
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+    branches: [master]
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Code
+      uses: actions/checkout@v2.1.1
+    - name: Set up Docker Buildx
+      uses: docker/setup-buildx-action@v2
+
+    - name: Log in to Docker Hub
+      uses: docker/login-action@v2
+      with:
+        username: ${{ secrets.DOCKER_USERNAME }}
+        password: ${{ secrets.DOCKER_PASSWORD }}
+
+    # ---------- Vulnerability Scanning (Trivy) ----------
+    - name: Install Trivy
+      run: |
+        sudo apt-get install wget apt-transport-https gnupg lsb-release -y
+        wget -qO - https://aquasecurity.github.io/trivy-repo/deb/public.key | sudo apt-key add -
+        echo deb https://aquasecurity.github.io/trivy-repo/deb $(lsb_release -sc) main | sudo tee /etc/apt/sources.list.d/trivy.list
+        sudo apt-get update
+        sudo apt-get install trivy -y
+
+    - name: Trivy Scan - Backend
+      run: trivy fs --exit-code 1 --severity CRITICAL,HIGH ./soulspringBack
+
+    - name: Trivy Scan - AI
+      run: trivy fs --exit-code 1 --severity CRITICAL,HIGH ./ai_models
+
+    - name: Trivy Scan - Frontend
+      run: trivy fs --exit-code 1 --severity CRITICAL,HIGH ./soulspringFront
+
+    # ---------- OWASP Dependency Check ----------
+    - name: OWASP Dependency-Check
+      uses: dependency-check/Dependency-Check_Action@1.0.0
+      with:
+        project: "SoulSpring"
+        path: ./soulspringFront
+        format: "HTML"
+        out: "reports"
+
+    # ---------- Build and Push Docker Images ----------
+    - name: Build and Push AI Docker Image
+      run: |
+        docker build -t ${{ secrets.DOCKER_USERNAME }}/soulspring_ai:latest -f ai_models/Dockerfile .
+        docker push ${{ secrets.DOCKER_USERNAME }}/soulspring_ai:latest
+
+    - name: Build and Push Backend Docker Image
+      run: |
+        docker build -t ${{ secrets.DOCKER_USERNAME }}/soulspring_backend:latest -f backend/Dockerfile.backend .
+        docker push ${{ secrets.DOCKER_USERNAME }}/soulspring_backend:latest
+
+    - name: Build and Push Frontend Docker Image
+      run: |
+        docker build -t ${{ secrets.DOCKER_USERNAME }}/soulspring_frontend:latest -f frontend/Dockerfile.frontend .
+        docker push ${{ secrets.DOCKER_USERNAME }}/soulspring_frontend:latest
+
+    # ---------- Optional: Deploy to Server ----------
+    - name: Deploy to Server
+      if: github.ref == 'refs/heads/master'
+      run: |
+        ssh user@yourserver 'docker-compose pull && docker-compose up -d'
