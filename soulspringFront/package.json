@@ -18,7 +18,7 @@
     "@mui/material": "^5.15.9",
     "@mui/styles": "^5.16.5",
     "@mui/x-charts": "^7.5.0",
-    "@mui/x-date-pickers-pro": "^7.2.0",
+    "@mui/x-date-pickers-pro": "^7.28.3",
     "@reduxjs/toolkit": "^2.1.0",
     "@types/date-fns": "^2.6.0",
     "@types/datejs": "^0.0.36",

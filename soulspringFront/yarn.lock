@@ -178,12 +178,17 @@
   dependencies:
     "@babel/helper-plugin-utils" "^7.24.7"
 
-"@babel/runtime@^7.12.5", "@babel/runtime@^7.18.3", "@babel/runtime@^7.23.2", "@babel/runtime@^7.23.9", "@babel/runtime@^7.24.7", "@babel/runtime@^7.24.8", "@babel/runtime@^7.5.5", "@babel/runtime@^7.8.7":
+"@babel/runtime@^7.12.5", "@babel/runtime@^7.18.3", "@babel/runtime@^7.23.2", "@babel/runtime@^7.23.9", "@babel/runtime@^7.24.8", "@babel/runtime@^7.5.5", "@babel/runtime@^7.8.7":
   version "7.24.8"
   resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.24.8.tgz#5d958c3827b13cc6d05e038c07fb2e5e3420d82e"
   integrity sha512-5F7SDGs1T72ZczbRwbGO9lQi0NLjQxzl6i4lJxLxfW9U5UluCSyEJeniWvnhl3/euNiqQVbo8zruhsDfid0esA==
   dependencies:
     regenerator-runtime "^0.14.0"
+
+"@babel/runtime@^7.25.7", "@babel/runtime@^7.27.0":
+  version "7.27.1"
+  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.27.1.tgz#9fce313d12c9a77507f264de74626e87fd0dc541"
+  integrity sha512-1x3D2xEk2fRo3PAhwQwu5UubzgiVWSXTBfWpVd2Mx2AzRqJuDJCsgaDVZ7HB5iGzDW1Hl1sWN2mFyKjmR9uAog==
 
 "@babel/runtime@^7.3.1", "@babel/runtime@^7.8.3":
   version "7.25.0"
@@ -815,7 +820,7 @@
     jss-plugin-vendor-prefixer "^10.10.0"
     prop-types "^15.8.1"
 
-"@mui/system@^5.16.0", "@mui/system@^5.16.1":
+"@mui/system@^5.16.1":
   version "5.16.1"
   resolved "https://registry.yarnpkg.com/@mui/system/-/system-5.16.1.tgz#c08fddba592511d6916c6a70da292a7658551ccb"
   integrity sha512-VaFcClC+uhvIEzhzcNmh9FRBvrG9IPjsOokhj6U1HPZsFnLzHV7AD7dJcT6LxWoiIZj9Ej0GK+MGh/b8+BtSlQ==
@@ -848,7 +853,14 @@
   resolved "https://registry.yarnpkg.com/@mui/types/-/types-7.2.15.tgz#dadd232fe9a70be0d526630675dff3b110f30b53"
   integrity sha512-nbo7yPhtKJkdf9kcVOF8JZHPZTmqXjJ/tI0bdWgHg5tp9AnIN4Y7f7wm9T+0SyGYJk76+GYZ8Q5XaTYAsUHN0Q==
 
-"@mui/utils@^5.15.14", "@mui/utils@^5.16.0", "@mui/utils@^5.16.1":
+"@mui/types@^7.4.1":
+  version "7.4.1"
+  resolved "https://registry.yarnpkg.com/@mui/types/-/types-7.4.1.tgz#5611268faa0b46ab0c622c02b54f3f30f9809c2d"
+  integrity sha512-gUL8IIAI52CRXP/MixT1tJKt3SI6tVv4U/9soFsTtAsHzaJQptZ42ffdHZV3niX1ei0aUgMvOxBBN0KYqdG39g==
+  dependencies:
+    "@babel/runtime" "^7.27.0"
+
+"@mui/utils@^5.15.14", "@mui/utils@^5.16.1":
   version "5.16.1"
   resolved "https://registry.yarnpkg.com/@mui/utils/-/utils-5.16.1.tgz#068ddc236c10f71768133c144b3286d2cc815f5f"
   integrity sha512-4UQzK46tAEYs2xZv79hRiIc3GxZScd00kGPDadNrGztAEZlmSaUY8cb9ITd2xCiTfzsx5AN6DH8aaQ8QEKJQeQ==
@@ -881,6 +893,18 @@
     prop-types "^15.8.1"
     react-is "^18.3.1"
 
+"@mui/utils@^5.16.6 || ^6.0.0 || ^7.0.0":
+  version "7.0.2"
+  resolved "https://registry.yarnpkg.com/@mui/utils/-/utils-7.0.2.tgz#b6842a9f979a619b65011a84a1964b85b205a9a4"
+  integrity sha512-72gcuQjPzhj/MLmPHLCgZjy2VjOH4KniR/4qRtXTTXIEwbkgcN+Y5W/rC90rWtMmZbjt9svZev/z+QHUI4j74w==
+  dependencies:
+    "@babel/runtime" "^7.27.0"
+    "@mui/types" "^7.4.1"
+    "@types/prop-types" "^15.7.14"
+    clsx "^2.1.1"
+    prop-types "^15.8.1"
+    react-is "^19.1.0"
+
 "@mui/x-charts@^7.5.0":
   version "7.11.0"
   resolved "https://registry.yarnpkg.com/@mui/x-charts/-/x-charts-7.11.0.tgz#6d2efcd5c5593e47d94598a99ca3277f8c41e27b"
@@ -900,42 +924,49 @@
     d3-shape "^3.2.0"
     prop-types "^15.8.1"
 
-"@mui/x-date-pickers-pro@^7.2.0":
-  version "7.10.0"
-  resolved "https://registry.yarnpkg.com/@mui/x-date-pickers-pro/-/x-date-pickers-pro-7.10.0.tgz#7720e79d33b9d29aa6396a00fc7605154d65f5b9"
-  integrity sha512-imBg/WclPP5F/BosvI665iQ/MyaDTjjPySbU4dl0zhPLZIFCmabtltd+RcxSGKGsgr0kF4UGA1WMRAzpiB/VIA==
+"@mui/x-date-pickers-pro@^7.28.3":
+  version "7.29.1"
+  resolved "https://registry.yarnpkg.com/@mui/x-date-pickers-pro/-/x-date-pickers-pro-7.29.1.tgz#ab25154922b1cf9de8b1f3de51fdc3a69bb302d0"
+  integrity sha512-zG/I9O4fEqMFIHI6ish64Exbsp2e8RkTXOw+zpISYLPDFMFAbni82wBGGA6eZynH24RWO72YQzpdZ0sCztdedg==
   dependencies:
-    "@babel/runtime" "^7.24.7"
-    "@mui/base" "^5.0.0-beta.40"
-    "@mui/system" "^5.16.0"
-    "@mui/utils" "^5.16.0"
-    "@mui/x-date-pickers" "7.10.0"
-    "@mui/x-license" "7.10.0"
+    "@babel/runtime" "^7.25.7"
+    "@mui/utils" "^5.16.6 || ^6.0.0 || ^7.0.0"
+    "@mui/x-date-pickers" "7.29.1"
+    "@mui/x-internals" "7.29.0"
+    "@mui/x-license" "7.29.1"
     clsx "^2.1.1"
     prop-types "^15.8.1"
     react-transition-group "^4.4.5"
 
-"@mui/x-date-pickers@7.10.0":
-  version "7.10.0"
-  resolved "https://registry.yarnpkg.com/@mui/x-date-pickers/-/x-date-pickers-7.10.0.tgz#d9a2745299016b4da3ed6fe29adca09423d4b97e"
-  integrity sha512-mfJuKOdrrdlH5FskXl0aypRmZuVctNRwn5Xw0aMgE3n1ORCpzDSGCXd5El1/PdH3/3olT+vPFmxXKMQju5UMow==
+"@mui/x-date-pickers@7.29.1":
+  version "7.29.1"
+  resolved "https://registry.yarnpkg.com/@mui/x-date-pickers/-/x-date-pickers-7.29.1.tgz#485a3e1fdd49dc86cf64a2be7cd58cd2f1b28c62"
+  integrity sha512-0RibuJ1YOgUVNqS4aSIXmxpqZ5YWLsxSM84GFlm3M7WW8UbwBY2QzG4vcOsLOYUwk2aqhcP6cpnrIyoLYUsS7g==
   dependencies:
-    "@babel/runtime" "^7.24.7"
-    "@mui/base" "^5.0.0-beta.40"
-    "@mui/system" "^5.16.0"
-    "@mui/utils" "^5.16.0"
-    "@types/react-transition-group" "^4.4.10"
+    "@babel/runtime" "^7.25.7"
+    "@mui/utils" "^5.16.6 || ^6.0.0 || ^7.0.0"
+    "@mui/x-internals" "7.29.0"
+    "@types/react-transition-group" "^4.4.11"
     clsx "^2.1.1"
     prop-types "^15.8.1"
     react-transition-group "^4.4.5"
 
-"@mui/x-license@7.10.0":
-  version "7.10.0"
-  resolved "https://registry.yarnpkg.com/@mui/x-license/-/x-license-7.10.0.tgz#a5b879d72d171e47b2b47a30358490038ca53085"
-  integrity sha512-LliJ/A1VWGC8CKDGmGpCd3tYW+3DPPEk3FkyMrWyR9fzxFUKk3wc9+uE6d6mzYgeBUnfttdubO6d9Yf+eOyw5A==
+"@mui/x-internals@7.29.0":
+  version "7.29.0"
+  resolved "https://registry.yarnpkg.com/@mui/x-internals/-/x-internals-7.29.0.tgz#1f353b697ed1bf5594ac549556ade2e6841f4bf5"
+  integrity sha512-+Gk6VTZIFD70XreWvdXBwKd8GZ2FlSCuecQFzm6znwqXg1ZsndavrhG9tkxpxo2fM1Zf7Tk8+HcOO0hCbhTQFA==
   dependencies:
-    "@babel/runtime" "^7.24.7"
-    "@mui/utils" "^5.16.0"
+    "@babel/runtime" "^7.25.7"
+    "@mui/utils" "^5.16.6 || ^6.0.0 || ^7.0.0"
+
+"@mui/x-license@7.29.1":
+  version "7.29.1"
+  resolved "https://registry.yarnpkg.com/@mui/x-license/-/x-license-7.29.1.tgz#712e251ee60641c01d2cb1bf37fbe5fe175cb826"
+  integrity sha512-+6D4/2IVal8Gfzu7iZS0ZJgL5cMes0gES+uK9D8I4rlMjPQ779N/rXYMe42mGQZbZuRpoqwSq6VLQx3Gr3SkLQ==
+  dependencies:
+    "@babel/runtime" "^7.25.7"
+    "@mui/utils" "^5.16.6 || ^6.0.0 || ^7.0.0"
+    "@mui/x-internals" "7.29.0"
 
 "@nodelib/fs.scandir@2.1.5":
   version "2.1.5"
@@ -1297,6 +1328,11 @@
   resolved "https://registry.yarnpkg.com/@types/prop-types/-/prop-types-15.7.12.tgz#12bb1e2be27293c1406acb6af1c3f3a1481d98c6"
   integrity sha512-5zvhXYtRNRluoE/jAp4GVsSduVUzNWKkOZrCDBWYtE7biZywwdC2AcEzg+cSMLFRfVgeAFqpfNabiPjxFddV1Q==
 
+"@types/prop-types@^15.7.14":
+  version "15.7.14"
+  resolved "https://registry.yarnpkg.com/@types/prop-types/-/prop-types-15.7.14.tgz#1433419d73b2a7ebfc6918dcefd2ec0d5cd698f2"
+  integrity sha512-gNMvNH49DJ7OJYv+KAKn0Xp45p8PLl6zo2YnvDIbTd4J6MER2BmWN49TG7n9LvkyihINxeKW8+3bfS2yDC9dzQ==
+
 "@types/react-dom@<18.0.0":
   version "17.0.25"
   resolved "https://registry.yarnpkg.com/@types/react-dom/-/react-dom-17.0.25.tgz#e0e5b3571e1069625b3a3da2b279379aa33a0cb5"
@@ -1322,6 +1358,11 @@
   integrity sha512-hT/+s0VQs2ojCX823m60m5f0sL5idt9SO6Tj6Dg+rdphGPIeJbJ6CxvBYkgkGKrYeDjvIpKTR38UzmtHJOGW3Q==
   dependencies:
     "@types/react" "*"
+
+"@types/react-transition-group@^4.4.11":
+  version "4.4.12"
+  resolved "https://registry.yarnpkg.com/@types/react-transition-group/-/react-transition-group-4.4.12.tgz#b5d76568485b02a307238270bfe96cb51ee2a044"
+  integrity sha512-8TV6R3h2j7a91c+1DXdJi3Syo69zzIZbz7Lg5tORM5LEJG7X/E6a1V3drRyBRZq7/utz7A+c4OgYLiLcYGHG6w==
 
 "@types/react@*":
   version "18.3.3"
@@ -4060,6 +4101,11 @@ react-is@^18.3.1:
   version "18.3.1"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-18.3.1.tgz#e83557dc12eae63a99e003a46388b1dcbb44db7e"
   integrity sha512-/LLMVyas0ljjAtoYiPqYiL8VWXzUUdThrmU5+n20DZv+a+ClRoevUzw5JxU+Ieh5/c87ytoTBV9G1FiKfNJdmg==
+
+react-is@^19.1.0:
+  version "19.1.0"
+  resolved "https://registry.yarnpkg.com/react-is/-/react-is-19.1.0.tgz#805bce321546b7e14c084989c77022351bbdd11b"
+  integrity sha512-Oe56aUPnkHyyDxxkvqtd7KkdQP5uIUfHxd5XTb3wE9d/kRnZLmKbDB0GWk919tdQ+mxxPtG6EAs6RMT6i1qtHg==
 
 react-perfect-scrollbar@^1.5.8:
   version "1.5.8"
