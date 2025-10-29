@@ -5,4 +5,4 @@ COPY soulspringFront/package*.json ./
 RUN yarn install
 COPY soulspringFront .
 
-FROM nginx:alpine
+FROM nginx:1.29.3-alpine3.22
